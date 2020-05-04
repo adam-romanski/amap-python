@@ -1,597 +1,597 @@
 structure_name,left_volume_mm3,right_volume_mm3,total_volume_mm3
-"Tuberomammillary nucleus, ventral part",0.064,0.055,0.119
-"Primary somatosensory area, mouth, layer 6b",0.048,0.056,0.10400000000000001
-internal capsule,1.097,1.082,2.1790000000000003
-Principal sensory nucleus of the trigeminal,0.606,0.591,1.197
-"Primary somatosensory area, trunk, layer 6a",0.12,0.127,0.247
-"Superior colliculus, motor related, intermediate gray layer",1.052,1.056,2.108
-Interfascicular nucleus raphe,0.05,0.036000000000000004,0.08600000000000001
-Parataenial nucleus,0.131,0.134,0.265
-"Superior colliculus, motor related, intermediate white layer",1.176,1.104,2.2800000000000002
-Induseum griseum,0.064,0.037,0.101
-"Entorhinal area, lateral part, layer 2",0.838,0.855,1.693
-Anterior amygdalar area,0.278,0.277,0.555
-"Superior colliculus, motor related, deep gray layer",0.626,0.626,1.252
-Intergeniculate leaflet of the lateral geniculate complex,0.037,0.037,0.074
-"Entorhinal area, lateral part, layer 6a",0.5660000000000001,0.5750000000000001,1.141
-"Periventricular hypothalamic nucleus, anterior part",0.001,0.03,0.031
-"Primary visual area, layer 6a",0.558,0.5640000000000001,1.122
-Oculomotor nucleus,0.021,0.017,0.038000000000000006
-"Gustatory areas, layer 1",0.101,0.108,0.20900000000000002
-Paraventricular hypothalamic nucleus,0.094,0.092,0.186
-"posteromedial visual area, layer 2/3",0.16,0.159,0.319
-"Superior colliculus, motor related, deep white layer",0.197,0.17,0.367
-Precommissural nucleus,0.076,0.083,0.159
-"Entorhinal area, lateral part, layer 3",0.707,0.675,1.3820000000000001
-medial forebrain bundle,0.024,0.024,0.048
-Nucleus accumbens,2.347,2.3850000000000002,4.732
-Medial terminal nucleus of the accessory optic tract,0.023,0.024,0.047
-Intermediodorsal nucleus of the thalamus,0.117,0.079,0.196
-medial longitudinal fascicle,0.047,0.048,0.095
-"Paraventricular hypothalamic nucleus, descending division",0.08,0.07,0.15000000000000002
-Anterodorsal nucleus,0.089,0.077,0.16599999999999998
-Lateral terminal nucleus of the accessory optic tract,0.009000000000000001,0.01,0.019000000000000003
-Interstitial nucleus of Cajal,0.039,0.032,0.07100000000000001
-"Frontal pole, layer 1",0.076,0.117,0.193
-Anterodorsal preoptic nucleus,0.044,0.046,0.09
-"Lateral visual area, layer 6a",0.10300000000000001,0.11,0.21300000000000002
-Dorsal terminal nucleus of the accessory optic tract,0.009000000000000001,0.007,0.016
-middle cerebellar peduncle,0.527,0.55,1.077
-lateral ventricle,1.12,1.1440000000000001,2.2640000000000002
-Inferior olivary complex,0.247,0.253,0.5
-"Prelimbic area, layer 6a",0.248,0.234,0.482
-Anterior hypothalamic nucleus,0.364,0.384,0.748
-Interposed nucleus,0.43,0.461,0.891
-motor root of the trigeminal nerve,0.027,0.026000000000000002,0.053000000000000005
-Dorsal cochlear nucleus,0.305,0.306,0.611
-"Temporal association areas, layer 1",0.264,0.27,0.534
-subependymal zone,0.069,0.058,0.127
-Interpeduncular nucleus,0.006,0.003,0.009000000000000001
-Ventral cochlear nucleus,0.549,0.543,1.092
-nigrostriatal tract,0.06,0.057,0.11699999999999999
-"Superior olivary complex, medial part",0.098,0.10300000000000001,0.201
-Inferior salivatory nucleus,0.004,0.004,0.008
-choroid plexus,0.8230000000000001,0.74,1.5630000000000002
-"Primary somatosensory area, lower limb, layer 2/3",0.364,0.314,0.6779999999999999
-"Superior olivary complex, lateral part",0.179,0.181,0.36
+"Tuberomammillary nucleus, ventral part",0.058,0.067,0.125
+"Primary somatosensory area, mouth, layer 6b",0.049,0.053,0.10200000000000001
+internal capsule,1.086,1.055,2.141
+Principal sensory nucleus of the trigeminal,0.585,0.5750000000000001,1.1600000000000001
+"Primary somatosensory area, trunk, layer 6a",0.13,0.125,0.255
+"Superior colliculus, motor related, intermediate gray layer",1.062,1.051,2.113
+Interfascicular nucleus raphe,0.05,0.038,0.088
+Parataenial nucleus,0.114,0.115,0.229
+"Superior colliculus, motor related, intermediate white layer",1.1440000000000001,1.089,2.233
+Induseum griseum,0.064,0.038,0.10200000000000001
+"Entorhinal area, lateral part, layer 2",0.833,0.842,1.6749999999999998
+Anterior amygdalar area,0.28600000000000003,0.27,0.556
+"Superior colliculus, motor related, deep gray layer",0.649,0.613,1.262
+Intergeniculate leaflet of the lateral geniculate complex,0.035,0.034,0.069
+"Entorhinal area, lateral part, layer 6a",0.559,0.548,1.1070000000000002
+"Periventricular hypothalamic nucleus, anterior part",0.001,0.028,0.029
+"Primary visual area, layer 6a",0.5640000000000001,0.562,1.1260000000000001
+Oculomotor nucleus,0.017,0.016,0.033
+"Gustatory areas, layer 1",0.105,0.098,0.203
+Paraventricular hypothalamic nucleus,0.089,0.085,0.174
+"posteromedial visual area, layer 2/3",0.156,0.14400000000000002,0.30000000000000004
+"Superior colliculus, motor related, deep white layer",0.178,0.17500000000000002,0.353
+Precommissural nucleus,0.08700000000000001,0.084,0.171
+"Entorhinal area, lateral part, layer 3",0.6960000000000001,0.686,1.3820000000000001
+medial forebrain bundle,0.022,0.027,0.049
+Nucleus accumbens,2.356,2.35,4.7059999999999995
+Medial terminal nucleus of the accessory optic tract,0.025,0.025,0.05
+Intermediodorsal nucleus of the thalamus,0.113,0.074,0.187
+medial longitudinal fascicle,0.047,0.047,0.094
+"Paraventricular hypothalamic nucleus, descending division",0.064,0.064,0.128
+Anterodorsal nucleus,0.095,0.078,0.173
+Lateral terminal nucleus of the accessory optic tract,0.01,0.01,0.02
+Interstitial nucleus of Cajal,0.045,0.038,0.08299999999999999
+"Frontal pole, layer 1",0.088,0.125,0.213
+Anterodorsal preoptic nucleus,0.045,0.049,0.094
+"Lateral visual area, layer 6a",0.107,0.111,0.218
+Dorsal terminal nucleus of the accessory optic tract,0.009000000000000001,0.006,0.015000000000000001
+middle cerebellar peduncle,0.556,0.547,1.1030000000000002
+lateral ventricle,1.117,1.147,2.2640000000000002
+Inferior olivary complex,0.251,0.255,0.506
+"Prelimbic area, layer 6a",0.247,0.242,0.489
+Anterior hypothalamic nucleus,0.34500000000000003,0.392,0.7370000000000001
+Interposed nucleus,0.423,0.443,0.866
+motor root of the trigeminal nerve,0.028,0.025,0.053000000000000005
+Dorsal cochlear nucleus,0.307,0.295,0.602
+"Temporal association areas, layer 1",0.258,0.274,0.532
+subependymal zone,0.07100000000000001,0.066,0.137
+Interpeduncular nucleus,0.007,0.003,0.01
+Ventral cochlear nucleus,0.546,0.536,1.082
+nigrostriatal tract,0.058,0.054,0.112
+"Superior olivary complex, medial part",0.097,0.10400000000000001,0.201
+Inferior salivatory nucleus,0.004,0.002,0.006
+choroid plexus,0.791,0.735,1.526
+"Primary somatosensory area, lower limb, layer 2/3",0.307,0.324,0.631
+"Superior olivary complex, lateral part",0.17300000000000001,0.179,0.352
 Trochlear nucleus,0.003,0.003,0.006
-optic chiasm,0.179,0.161,0.33999999999999997
-"Periventricular hypothalamic nucleus, intermediate part",0.036000000000000004,0.129,0.165
-"Agranular insular area, posterior part, layer 1",0.232,0.223,0.455
-"Lateral visual area, layer 6b",0.021,0.018000000000000002,0.03900000000000001
-"Superior olivary complex, periolivary region",0.202,0.199,0.401
-Koelliker-Fuse subnucleus,0.089,0.082,0.17099999999999999
-optic tract,0.391,0.362,0.753
-"Periventricular hypothalamic nucleus, posterior part",0.061,0.058,0.119
-Midbrain reticular nucleus,2.695,2.741,5.436
-third ventricle,0.836,0.251,1.087
-Lateral amygdalar nucleus,0.444,0.452,0.896
-"Prelimbic area, layer 6b",0.007,0.013000000000000001,0.02
-"Periventricular hypothalamic nucleus, preoptic part",0.062,0.054,0.11599999999999999
-Intermediate reticular nucleus,1.46,1.472,2.932
-"Entorhinal area, lateral part, layer 5",0.752,0.78,1.532
-cerebral aqueduct,0.28500000000000003,0.17300000000000001,0.4580000000000001
-"Nucleus ambiguus, ventral division",0.01,0.007,0.017
-fourth ventricle,0.28700000000000003,0.23,0.517
-Pontine reticular nucleus,1.252,1.266,2.518
-Locus ceruleus,0.007,0.005,0.012
-"Gustatory areas, layer 4",0.078,0.078,0.156
-Paraventricular nucleus of the thalamus,0.267,0.189,0.456
-lateral recess,0.255,0.245,0.5
-Lateral dorsal nucleus of thalamus,0.517,0.5730000000000001,1.09
-"Dorsal auditory area, layer 6a",0.10200000000000001,0.113,0.21500000000000002
-posterior commissure,0.034,0.019,0.053000000000000005
-Anterior olfactory nucleus,2.592,2.5300000000000002,5.122
-Laterodorsal tegmental nucleus,0.107,0.117,0.224
-"Agranular insular area, posterior part, layer 2/3",0.427,0.42,0.847
-Nucleus prepositus,0.126,0.116,0.242
-"Prelimbic area, layer 1",0.354,0.231,0.585
-Retrochiasmatic area,0.075,0.07,0.14500000000000002
-Nucleus of Roller,0.022,0.018000000000000002,0.04
-Ventral part of the lateral geniculate complex,0.211,0.212,0.423
-"Gustatory areas, layer 2/3",0.215,0.217,0.432
-Nucleus of reuniens,0.254,0.219,0.473
-Lateral habenula,0.19,0.187,0.377
-"Gustatory areas, layer 5",0.291,0.28400000000000003,0.575
-"Accessory olfactory bulb, glomerular layer",0.078,0.081,0.159
-Rhomboid nucleus,0.051000000000000004,0.037,0.088
-pyramid,0.301,0.308,0.609
-Lateral hypothalamic area,1.062,1.106,2.168
-"Accessory olfactory bulb, granular layer",0.047,0.063,0.11
-Rostral linear nucleus raphe,0.056,0.021,0.077
-pyramidal decussation,0.043000000000000003,0.027,0.07
-"Primary somatosensory area, barrel field, layer 2/3",0.789,0.809,1.598
-Medial vestibular nucleus,0.962,1.004,1.966
-Linear nucleus of the medulla,0.036000000000000004,0.032,0.068
-"Accessory olfactory bulb, mitral layer",0.093,0.126,0.219
-Nucleus raphe magnus,0.116,0.0,0.116
-Area postrema,0.039,0.022,0.061
-Lateral vestibular nucleus,0.127,0.148,0.275
-Lateral mammillary nucleus,0.05,0.036000000000000004,0.08600000000000001
-"Anterior cingulate area, dorsal part, layer 2/3",0.256,0.273,0.529
-Red nucleus,0.406,0.448,0.8540000000000001
-Anterior pretectal nucleus,0.661,0.659,1.32
-Superior vestibular nucleus,0.182,0.193,0.375
-Lateral posterior nucleus of the thalamus,0.663,0.639,1.302
+optic chiasm,0.178,0.16,0.33799999999999997
+"Periventricular hypothalamic nucleus, intermediate part",0.039,0.131,0.17
+"Agranular insular area, posterior part, layer 1",0.22,0.224,0.444
+"Lateral visual area, layer 6b",0.021,0.016,0.037000000000000005
+"Superior olivary complex, periolivary region",0.189,0.203,0.392
+Koelliker-Fuse subnucleus,0.092,0.081,0.173
+optic tract,0.391,0.358,0.749
+"Periventricular hypothalamic nucleus, posterior part",0.075,0.07100000000000001,0.14600000000000002
+Midbrain reticular nucleus,2.669,2.6790000000000003,5.348000000000001
+third ventricle,0.84,0.291,1.131
+Lateral amygdalar nucleus,0.437,0.442,0.879
+"Prelimbic area, layer 6b",0.008,0.011,0.019
+"Periventricular hypothalamic nucleus, preoptic part",0.062,0.055,0.11699999999999999
+Intermediate reticular nucleus,1.447,1.438,2.885
+"Entorhinal area, lateral part, layer 5",0.746,0.763,1.509
+cerebral aqueduct,0.275,0.171,0.44600000000000006
+"Nucleus ambiguus, ventral division",0.01,0.008,0.018000000000000002
+fourth ventricle,0.28800000000000003,0.224,0.512
+Pontine reticular nucleus,1.225,1.237,2.462
+Locus ceruleus,0.006,0.007,0.013000000000000001
+"Gustatory areas, layer 4",0.076,0.078,0.154
+Paraventricular nucleus of the thalamus,0.265,0.183,0.448
+lateral recess,0.254,0.241,0.495
+Lateral dorsal nucleus of thalamus,0.538,0.543,1.081
+"Dorsal auditory area, layer 6a",0.08700000000000001,0.10400000000000001,0.191
+posterior commissure,0.024,0.018000000000000002,0.042
+Anterior olfactory nucleus,2.54,2.551,5.091
+Laterodorsal tegmental nucleus,0.105,0.105,0.21
+"Agranular insular area, posterior part, layer 2/3",0.417,0.417,0.834
+Nucleus prepositus,0.125,0.11900000000000001,0.244
+"Prelimbic area, layer 1",0.354,0.225,0.579
+Retrochiasmatic area,0.066,0.073,0.139
+Nucleus of Roller,0.02,0.016,0.036000000000000004
+Ventral part of the lateral geniculate complex,0.20800000000000002,0.217,0.42500000000000004
+"Gustatory areas, layer 2/3",0.212,0.216,0.428
+Nucleus of reuniens,0.256,0.219,0.475
+Lateral habenula,0.17400000000000002,0.186,0.36
+"Gustatory areas, layer 5",0.277,0.275,0.552
+"Accessory olfactory bulb, glomerular layer",0.083,0.076,0.159
+Rhomboid nucleus,0.051000000000000004,0.033,0.084
+pyramid,0.302,0.302,0.604
+Lateral hypothalamic area,1.034,1.078,2.112
+"Accessory olfactory bulb, granular layer",0.055,0.053,0.108
+Rostral linear nucleus raphe,0.05,0.018000000000000002,0.068
+pyramidal decussation,0.04,0.021,0.061
+"Primary somatosensory area, barrel field, layer 2/3",0.811,0.803,1.614
+Medial vestibular nucleus,0.9520000000000001,0.967,1.919
+Linear nucleus of the medulla,0.034,0.03,0.064
+"Accessory olfactory bulb, mitral layer",0.10200000000000001,0.127,0.229
+Nucleus raphe magnus,0.114,0.0,0.114
+Area postrema,0.037,0.02,0.056999999999999995
+Lateral vestibular nucleus,0.135,0.152,0.28700000000000003
+Lateral mammillary nucleus,0.044,0.04,0.08399999999999999
+"Anterior cingulate area, dorsal part, layer 2/3",0.254,0.269,0.523
+Red nucleus,0.381,0.41600000000000004,0.797
+Anterior pretectal nucleus,0.658,0.639,1.2970000000000002
+Superior vestibular nucleus,0.184,0.188,0.372
+Lateral posterior nucleus of the thalamus,0.627,0.65,1.2770000000000001
 Nucleus raphe obscurus,0.076,0.0,0.076
-Arcuate hypothalamic nucleus,0.147,0.139,0.28600000000000003
-Spinal vestibular nucleus,0.428,0.404,0.8320000000000001
-Lateral preoptic area,0.341,0.316,0.657
-sensory root of the trigeminal nerve,0.359,0.332,0.6910000000000001
+Arcuate hypothalamic nucleus,0.139,0.14100000000000001,0.28
+Spinal vestibular nucleus,0.41300000000000003,0.391,0.804
+Lateral preoptic area,0.328,0.309,0.637
+sensory root of the trigeminal nerve,0.359,0.315,0.6739999999999999
 Nucleus raphe pallidus,0.073,0.0,0.073
-Anterior tegmental nucleus,0.021,0.019,0.04
-"Anterolateral visual area, layer 5",0.106,0.106,0.212
-"Temporal association areas, layer 4",0.17,0.168,0.338
+Anterior tegmental nucleus,0.024,0.015,0.039
+"Anterolateral visual area, layer 5",0.089,0.10200000000000001,0.191
+"Temporal association areas, layer 4",0.17,0.165,0.335
 solitary tract,0.006,0.007,0.013000000000000001
 Nucleus raphe pontis,0.056,0.038,0.094
-"Dorsal auditory area, layer 6b",0.018000000000000002,0.023,0.041
-"Midbrain reticular nucleus, retrorubral area",0.065,0.075,0.14
-"Posterior auditory area, layer 6a",0.042,0.041,0.083
-"Lateral septal nucleus, caudal (caudodorsal) part",0.29,0.326,0.616
-"Primary auditory area, layer 2/3",0.252,0.258,0.51
-"Dorsal auditory area, layer 5",0.176,0.18,0.356
-Anteroventral nucleus of thalamus,0.198,0.23900000000000002,0.43700000000000006
-"posteromedial visual area, layer 6a",0.075,0.084,0.159
-"Lateral septal nucleus, rostral (rostroventral) part",1.0110000000000001,1.031,2.042
-"Nucleus of the lateral olfactory tract, molecular layer",0.062,0.045,0.107
-Reticular nucleus of the thalamus,0.744,0.773,1.517
-Anteroventral preoptic nucleus,0.047,0.046,0.093
-"Lateral septal nucleus, ventral part",0.326,0.299,0.625
-"Nucleus of the lateral olfactory tract, pyramidal layer",0.068,0.067,0.135
-"Posterolateral visual area, layer 2/3",0.111,0.11,0.221
-Nucleus sagulum,0.048,0.041,0.089
-Anteroventral periventricular nucleus,0.10200000000000001,0.1,0.202
-"Retrosplenial area, dorsal part, layer 6a",0.393,0.402,0.795
-"Retrosplenial area, lateral agranular part, layer 6b",0.021,0.018000000000000002,0.03900000000000001
-Barrington's nucleus,0.009000000000000001,0.008,0.017
-"Anteromedial visual area, layer 1",0.079,0.076,0.155
-Suprachiasmatic nucleus,0.039,0.045,0.08399999999999999
-Bed nucleus of the anterior commissure,0.005,0.004,0.009000000000000001
-"Orbital area, ventrolateral part, layer 2/3",0.276,0.277,0.553
-"Temporal association areas, layer 5",0.515,0.517,1.032
-Bed nucleus of the accessory olfactory tract,0.02,0.017,0.037000000000000005
-"Anterior cingulate area, ventral part, layer 2/3",0.221,0.214,0.435
-Magnocellular nucleus,0.192,0.186,0.378
-stria terminalis,0.166,0.152,0.318
-"Basolateral amygdalar nucleus, anterior part",0.393,0.405,0.798
-"Prelimbic area, layer 2/3",0.2,0.195,0.395
-"Primary visual area, layer 6b",0.08700000000000001,0.088,0.175
-Magnocellular reticular nucleus,0.274,0.28400000000000003,0.558
-Septofimbrial nucleus,0.278,0.219,0.497
-"Basolateral amygdalar nucleus, posterior part",0.369,0.388,0.757
-Midbrain,3.665,3.444,7.109
-"Agranular insular area, posterior part, layer 6a",0.228,0.218,0.446
-Supragenual nucleus,0.006,0.012,0.018000000000000002
-"Primary motor area, Layer 1",0.71,0.715,1.4249999999999998
-Subgeniculate nucleus,0.014,0.01,0.024
-Suprageniculate nucleus,0.1,0.099,0.199
-superior cerebelar peduncles,0.232,0.225,0.457
-"Basomedial amygdalar nucleus, anterior part",0.41400000000000003,0.43,0.8440000000000001
-"Agranular insular area, dorsal part, layer 2/3",0.492,0.489,0.981
-"Retrosplenial area, dorsal part, layer 6b",0.016,0.017,0.033
-Accessory supraoptic group,0.003,0.004,0.007
+"Dorsal auditory area, layer 6b",0.012,0.021,0.033
+"Midbrain reticular nucleus, retrorubral area",0.07200000000000001,0.08,0.15200000000000002
+"Posterior auditory area, layer 6a",0.046,0.042,0.088
+"Lateral septal nucleus, caudal (caudodorsal) part",0.306,0.294,0.6
+"Primary auditory area, layer 2/3",0.23600000000000002,0.258,0.494
+"Dorsal auditory area, layer 5",0.158,0.165,0.323
+Anteroventral nucleus of thalamus,0.214,0.20600000000000002,0.42000000000000004
+"posteromedial visual area, layer 6a",0.084,0.09,0.174
+"Lateral septal nucleus, rostral (rostroventral) part",0.9450000000000001,0.9480000000000001,1.8930000000000002
+"Nucleus of the lateral olfactory tract, molecular layer",0.062,0.044,0.106
+Reticular nucleus of the thalamus,0.736,0.761,1.4969999999999999
+Anteroventral preoptic nucleus,0.049,0.051000000000000004,0.1
+"Lateral septal nucleus, ventral part",0.326,0.341,0.667
+"Nucleus of the lateral olfactory tract, pyramidal layer",0.078,0.081,0.159
+"Posterolateral visual area, layer 2/3",0.117,0.11,0.227
+Nucleus sagulum,0.048,0.046,0.094
+Anteroventral periventricular nucleus,0.101,0.099,0.2
+"Retrosplenial area, dorsal part, layer 6a",0.394,0.391,0.785
+"Retrosplenial area, lateral agranular part, layer 6b",0.021,0.019,0.04
+Barrington's nucleus,0.007,0.009000000000000001,0.016
+"Anteromedial visual area, layer 1",0.068,0.077,0.14500000000000002
+Suprachiasmatic nucleus,0.041,0.042,0.083
+Bed nucleus of the anterior commissure,0.002,0.004,0.006
+"Orbital area, ventrolateral part, layer 2/3",0.269,0.271,0.54
+"Temporal association areas, layer 5",0.495,0.515,1.01
+Bed nucleus of the accessory olfactory tract,0.015,0.013000000000000001,0.028
+"Anterior cingulate area, ventral part, layer 2/3",0.212,0.209,0.421
+Magnocellular nucleus,0.216,0.202,0.41800000000000004
+stria terminalis,0.169,0.152,0.321
+"Basolateral amygdalar nucleus, anterior part",0.378,0.406,0.784
+"Prelimbic area, layer 2/3",0.2,0.199,0.399
+"Primary visual area, layer 6b",0.094,0.084,0.178
+Magnocellular reticular nucleus,0.28,0.28500000000000003,0.5650000000000001
+Septofimbrial nucleus,0.263,0.221,0.484
+"Basolateral amygdalar nucleus, posterior part",0.366,0.369,0.735
+Midbrain,3.65,3.392,7.042
+"Agranular insular area, posterior part, layer 6a",0.221,0.223,0.444
+Supragenual nucleus,0.006,0.01,0.016
+"Primary motor area, Layer 1",0.671,0.679,1.35
+Subgeniculate nucleus,0.012,0.011,0.023
+Suprageniculate nucleus,0.099,0.098,0.197
+superior cerebelar peduncles,0.223,0.23,0.453
+"Basomedial amygdalar nucleus, anterior part",0.398,0.41300000000000003,0.811
+"Agranular insular area, dorsal part, layer 2/3",0.47600000000000003,0.491,0.9670000000000001
+"Retrosplenial area, dorsal part, layer 6b",0.019,0.018000000000000002,0.037000000000000005
+Accessory supraoptic group,0.003,0.005,0.008
 Septohippocampal nucleus,0.019,0.017,0.036000000000000004
-"Basomedial amygdalar nucleus, posterior part",0.389,0.385,0.774
-"Perirhinal area, layer 6a",0.033,0.03,0.063
-superior colliculus commissure,0.018000000000000002,0.016,0.034
-Subfornical organ,0.022,0.012,0.034
-Substantia innominata,1.625,1.572,3.197
-"Agranular insular area, posterior part, layer 5",0.418,0.399,0.817
-Subparaventricular zone,0.076,0.052000000000000005,0.128
-supraoptic commissures,0.016,0.008,0.024
-Subceruleus nucleus,0.015,0.011,0.026
-Bed nuclei of the stria terminalis,0.673,0.728,1.401
-Medulla,2.92,2.704,5.6240000000000006
-"Agranular insular area, posterior part, layer 6b",0.01,0.009000000000000001,0.019000000000000003
-Preparasubthalamic nucleus,0.006,0.008,0.014
-Sublaterodorsal nucleus,0.022,0.016,0.038
-Mediodorsal nucleus of thalamus,0.731,0.723,1.454
-"Prelimbic area, layer 5",0.534,0.545,1.0790000000000002
-Parasubthalamic nucleus,0.081,0.081,0.162
-Submedial nucleus of the thalamus,0.147,0.151,0.298
-"Perirhinal area, layer 6b",0.012,0.007,0.019
-Infracerebellar nucleus,0.034,0.028,0.062
-"Substantia nigra, compact part",0.106,0.106,0.212
-"Posterolateral visual area, layer 6a",0.07100000000000001,0.056,0.127
-cuneate fascicle,0.009000000000000001,0.005,0.014000000000000002
-"Substantia nigra, reticular part",0.8130000000000001,0.849,1.662
-Field CA1,5.447,5.405,10.852
-Supraoptic nucleus,0.024,0.032,0.056
-"Posterolateral visual area, layer 6b",0.003,0.002,0.005
-ventral tegmental decussation,0.024,0.017,0.041
-"Anteromedial visual area, layer 4",0.033,0.033,0.066
-Medial amygdalar nucleus,1.085,1.097,2.182
-"Orbital area, lateral part, layer 2/3",0.323,0.325,0.648
-vestibular nerve,0.11900000000000001,0.136,0.255
-"Subparafascicular nucleus, magnocellular part",0.043000000000000003,0.036000000000000004,0.07900000000000001
-"Lateral visual area, layer 1",0.1,0.101,0.201
-"Subparafascicular nucleus, parvicellular part",0.089,0.062,0.151
-Field CA2,0.246,0.249,0.495
-Ectorhinal area/Layer 2/3,0.23700000000000002,0.23900000000000002,0.47600000000000003
-medial corticohypothalmic tract,0.005,0.007,0.012
-"Spinal nucleus of the trigeminal, caudal part",0.884,0.867,1.751
-"Retrosplenial area, ventral part, layer 2/3",0.5740000000000001,0.551,1.125
-"Anteromedial visual area, layer 5",0.128,0.111,0.239
-"Retrosplenial area, dorsal part, layer 2/3",0.5,0.515,1.0150000000000001
-columns of the fornix,0.148,0.147,0.295
-"Spinal nucleus of the trigeminal, interpolar part",0.934,0.971,1.905
-"Orbital area, lateral part, layer 6a",0.245,0.254,0.499
-"Anteromedial visual area, layer 6b",0.017,0.016,0.033
-"Retrosplenial area, dorsal part, layer 1",0.458,0.427,0.885
-dorsal hippocampal commissure,0.521,0.5,1.021
-"Spinal nucleus of the trigeminal, oral part",0.55,0.54,1.09
-"Orbital area, lateral part, layer 1",0.195,0.203,0.398
-ventral hippocampal commissure,0.035,0.03,0.065
-"Primary somatosensory area, upper limb, layer 1",0.257,0.23800000000000002,0.495
-"Basolateral amygdalar nucleus, ventral part",0.229,0.209,0.438
-Median preoptic nucleus,0.034,0.003,0.037000000000000005
-"Posterior auditory area, layer 6b",0.009000000000000001,0.007,0.016
-Midbrain trigeminal nucleus,0.005,0.004,0.009000000000000001
-"Primary somatosensory area, trunk, layer 6b",0.017,0.019,0.036000000000000004
-Field CA3,3.3200000000000003,3.335,6.655
-alveus,0.742,0.746,1.488
-"posteromedial visual area, layer 6b",0.011,0.012,0.023
-Subthalamic nucleus,0.11900000000000001,0.113,0.232
-Striatum,1.494,1.3940000000000001,2.888
-"Primary somatosensory area, lower limb, layer 6a",0.28500000000000003,0.293,0.5780000000000001
-brachium of the inferior colliculus,0.128,0.131,0.259
-Medial habenula,0.164,0.166,0.33
-"Orbital area, medial part, layer 1",0.274,0.188,0.462
+"Basomedial amygdalar nucleus, posterior part",0.378,0.371,0.749
+"Perirhinal area, layer 6a",0.026000000000000002,0.031,0.057
+superior colliculus commissure,0.012,0.009000000000000001,0.021
+Subfornical organ,0.021,0.009000000000000001,0.030000000000000002
+Substantia innominata,1.572,1.547,3.1189999999999998
+"Agranular insular area, posterior part, layer 5",0.40800000000000003,0.403,0.811
+Subparaventricular zone,0.066,0.052000000000000005,0.11800000000000001
+supraoptic commissures,0.014,0.007,0.021
+Subceruleus nucleus,0.016,0.011,0.027
+Bed nuclei of the stria terminalis,0.6990000000000001,0.669,1.368
+Medulla,2.911,2.633,5.5440000000000005
+"Agranular insular area, posterior part, layer 6b",0.01,0.008,0.018000000000000002
+Preparasubthalamic nucleus,0.006,0.007,0.013000000000000001
+Sublaterodorsal nucleus,0.026000000000000002,0.016,0.042
+Mediodorsal nucleus of thalamus,0.725,0.709,1.434
+"Prelimbic area, layer 5",0.54,0.551,1.0910000000000002
+Parasubthalamic nucleus,0.08600000000000001,0.078,0.164
+Submedial nucleus of the thalamus,0.147,0.155,0.302
+"Perirhinal area, layer 6b",0.009000000000000001,0.008,0.017
+Infracerebellar nucleus,0.028,0.026000000000000002,0.054000000000000006
+"Substantia nigra, compact part",0.10200000000000001,0.111,0.21300000000000002
+"Posterolateral visual area, layer 6a",0.057,0.062,0.119
+cuneate fascicle,0.012,0.006,0.018000000000000002
+"Substantia nigra, reticular part",0.8130000000000001,0.839,1.6520000000000001
+Field CA1,5.3870000000000005,5.33,10.717
+Supraoptic nucleus,0.023,0.023,0.046
+"Posterolateral visual area, layer 6b",0.002,0.002,0.004
+ventral tegmental decussation,0.024,0.016,0.04
+"Anteromedial visual area, layer 4",0.035,0.034,0.069
+Medial amygdalar nucleus,1.048,1.058,2.106
+"Orbital area, lateral part, layer 2/3",0.325,0.317,0.642
+vestibular nerve,0.113,0.131,0.244
+"Subparafascicular nucleus, magnocellular part",0.038,0.034,0.07200000000000001
+"Lateral visual area, layer 1",0.1,0.107,0.20700000000000002
+"Subparafascicular nucleus, parvicellular part",0.08600000000000001,0.068,0.15400000000000003
+Field CA2,0.246,0.243,0.489
+Ectorhinal area/Layer 2/3,0.243,0.229,0.472
+medial corticohypothalmic tract,0.003,0.002,0.005
+"Spinal nucleus of the trigeminal, caudal part",0.8270000000000001,0.858,1.685
+"Retrosplenial area, ventral part, layer 2/3",0.5740000000000001,0.537,1.1110000000000002
+"Anteromedial visual area, layer 5",0.122,0.111,0.23299999999999998
+"Retrosplenial area, dorsal part, layer 2/3",0.506,0.503,1.009
+columns of the fornix,0.138,0.138,0.276
+"Spinal nucleus of the trigeminal, interpolar part",0.971,0.936,1.907
+"Orbital area, lateral part, layer 6a",0.24,0.254,0.494
+"Anteromedial visual area, layer 6b",0.017,0.012,0.029
+"Retrosplenial area, dorsal part, layer 1",0.461,0.432,0.893
+dorsal hippocampal commissure,0.497,0.506,1.0030000000000001
+"Spinal nucleus of the trigeminal, oral part",0.536,0.545,1.081
+"Orbital area, lateral part, layer 1",0.202,0.20700000000000002,0.40900000000000003
+ventral hippocampal commissure,0.036000000000000004,0.031,0.067
+"Primary somatosensory area, upper limb, layer 1",0.268,0.246,0.514
+"Basolateral amygdalar nucleus, ventral part",0.215,0.216,0.431
+Median preoptic nucleus,0.033,0.002,0.035
+"Posterior auditory area, layer 6b",0.008,0.007,0.015
+Midbrain trigeminal nucleus,0.004,0.004,0.008
+"Primary somatosensory area, trunk, layer 6b",0.015,0.02,0.035
+Field CA3,3.287,3.294,6.5809999999999995
+alveus,0.709,0.729,1.438
+"posteromedial visual area, layer 6b",0.01,0.015,0.025
+Subthalamic nucleus,0.114,0.10400000000000001,0.21800000000000003
+Striatum,1.445,1.35,2.795
+"Primary somatosensory area, lower limb, layer 6a",0.302,0.26,0.562
+brachium of the inferior colliculus,0.126,0.132,0.258
+Medial habenula,0.161,0.16,0.321
+"Orbital area, medial part, layer 1",0.268,0.187,0.455
 "Orbital area, lateral part, layer 6b",0.021,0.021,0.042
-"posteromedial visual area, layer 4",0.056,0.053,0.109
-Subiculum,1.065,1.108,2.173
-dorsal acoustic stria,0.005,0.006,0.011
-Main olfactory bulb,2.255,2.446,4.7010000000000005
-"Primary somatosensory area, lower limb, layer 6b",0.023,0.03,0.053
-Cerebellum,0.442,0.463,0.905
-Medial preoptic nucleus,0.21,0.182,0.392
-"Ventral auditory area, layer 6a",0.151,0.151,0.302
-Medial preoptic area,0.326,0.3,0.626
-Supramammillary nucleus,0.14100000000000001,0.131,0.272
-"Entorhinal area, medial part, dorsal zone, layer 1",0.653,0.664,1.3170000000000002
-"Dorsal auditory area, layer 1",0.097,0.106,0.203
-dorsal fornix,0.03,0.024,0.054
-Medial pretectal area,0.03,0.018000000000000002,0.048
-Supratrigeminal nucleus,0.137,0.131,0.268
-dorsal limb,0.045,0.052000000000000005,0.097
-"Perirhinal area, layer 1",0.122,0.123,0.245
-"Retrosplenial area, ventral part, layer 1",0.552,0.427,0.9790000000000001
-"Entorhinal area, medial part, dorsal zone, layer 2",0.66,0.656,1.316
-"Central amygdalar nucleus, capsular part",0.158,0.165,0.323
-Thalamus,0.481,0.448,0.929
-"Central amygdalar nucleus, lateral part",0.139,0.138,0.277
-dorsal spinocerebellar tract,0.074,0.075,0.149
-"Infralimbic area, layer 2/3",0.088,0.082,0.16999999999999998
-"Primary somatosensory area, nose, layer 1",0.229,0.211,0.44
-"Central amygdalar nucleus, medial part",0.389,0.387,0.776
-Medial septal nucleus,0.274,0.145,0.41900000000000004
-"posteromedial visual area, layer 5",0.15,0.166,0.316
-Postpiriform transition area,0.8,0.781,1.581
-"Lateral visual area, layer 4",0.097,0.094,0.191
-Tegmental reticular nucleus,0.376,0.378,0.754
-Central lateral nucleus of the thalamus,0.193,0.184,0.377
+"posteromedial visual area, layer 4",0.051000000000000004,0.052000000000000005,0.10300000000000001
+Subiculum,1.057,1.07,2.127
+dorsal acoustic stria,0.004,0.008,0.012
+Main olfactory bulb,2.391,2.6350000000000002,5.026
+"Primary somatosensory area, lower limb, layer 6b",0.03,0.026000000000000002,0.056
+Cerebellum,0.434,0.455,0.889
+Medial preoptic nucleus,0.23700000000000002,0.196,0.43300000000000005
+"Ventral auditory area, layer 6a",0.146,0.152,0.298
+Medial preoptic area,0.313,0.28300000000000003,0.5960000000000001
+Supramammillary nucleus,0.149,0.137,0.28600000000000003
+"Entorhinal area, medial part, dorsal zone, layer 1",0.623,0.633,1.256
+"Dorsal auditory area, layer 1",0.114,0.09,0.20400000000000001
+dorsal fornix,0.018000000000000002,0.026000000000000002,0.044000000000000004
+Medial pretectal area,0.026000000000000002,0.031,0.057
+Supratrigeminal nucleus,0.132,0.133,0.265
+dorsal limb,0.049,0.047,0.096
+"Perirhinal area, layer 1",0.114,0.11900000000000001,0.233
+"Retrosplenial area, ventral part, layer 1",0.542,0.41200000000000003,0.9540000000000001
+"Entorhinal area, medial part, dorsal zone, layer 2",0.613,0.622,1.2349999999999999
+"Central amygdalar nucleus, capsular part",0.164,0.159,0.323
+Thalamus,0.47400000000000003,0.438,0.912
+"Central amygdalar nucleus, lateral part",0.131,0.139,0.27
+dorsal spinocerebellar tract,0.078,0.07200000000000001,0.15000000000000002
+"Infralimbic area, layer 2/3",0.083,0.078,0.161
+"Primary somatosensory area, nose, layer 1",0.20500000000000002,0.217,0.42200000000000004
+"Central amygdalar nucleus, medial part",0.385,0.396,0.781
+Medial septal nucleus,0.28200000000000003,0.154,0.43600000000000005
+"posteromedial visual area, layer 5",0.153,0.159,0.312
+Postpiriform transition area,0.809,0.786,1.5950000000000002
+"Lateral visual area, layer 4",0.098,0.093,0.191
+Tegmental reticular nucleus,0.364,0.359,0.723
+Central lateral nucleus of the thalamus,0.183,0.186,0.369
 Accessory facial motor nucleus,0.004,0.003,0.007
-"Primary somatosensory area, upper limb, layer 4",0.279,0.269,0.548
-external capsule,0.466,0.47700000000000004,0.9430000000000001
-Nucleus of the brachium of the inferior colliculus,0.054,0.048,0.10200000000000001
-Triangular nucleus of septum,0.219,0.168,0.387
-"Orbital area, medial part, layer 2/3",0.166,0.157,0.323
-Claustrum,0.304,0.298,0.602
-Nucleus of Darkschewitsch,0.06,0.042,0.10200000000000001
-"Anterior cingulate area, ventral part, layer 1",0.361,0.197,0.558
-"Retrosplenial area, ventral part, layer 6a",0.359,0.34500000000000003,0.704
+"Primary somatosensory area, upper limb, layer 4",0.267,0.279,0.546
+external capsule,0.46,0.48,0.94
+Nucleus of the brachium of the inferior colliculus,0.047,0.048,0.095
+Triangular nucleus of septum,0.21,0.179,0.389
+"Orbital area, medial part, layer 2/3",0.161,0.155,0.316
+Claustrum,0.29,0.294,0.584
+Nucleus of Darkschewitsch,0.062,0.054,0.11599999999999999
+"Anterior cingulate area, ventral part, layer 1",0.34900000000000003,0.19,0.539
+"Retrosplenial area, ventral part, layer 6a",0.339,0.334,0.673
 Central linear nucleus raphe,0.049,0.033,0.082
-"Primary visual area, layer 1",0.685,0.687,1.372
-fasciculus retroflexus,0.09,0.075,0.16499999999999998
-Diagonal band nucleus,0.40900000000000003,0.359,0.768
-"Taenia tecta, dorsal part",0.41200000000000003,0.335,0.7470000000000001
-"Ventral auditory area, layer 6b",0.028,0.022,0.05
-Central medial nucleus of the thalamus,0.16,0.112,0.272
-"Dorsal auditory area, layer 2/3",0.157,0.169,0.326
-"Anterolateral visual area, layer 6a",0.073,0.056,0.129
-fimbria,0.78,0.786,1.566
-Nucleus incertus,0.07200000000000001,0.047,0.11900000000000001
-"Taenia tecta, ventral part",0.378,0.364,0.742
-"Orbital area, ventrolateral part, layer 6a",0.128,0.116,0.244
-Subparafascicular area,0.092,0.067,0.159
-"Retrosplenial area, dorsal part, layer 5",0.658,0.65,1.308
-habenular commissure,0.031,0.03,0.061
-Nucleus of the lateral lemniscus,0.383,0.402,0.785
-"Lateral visual area, layer 5",0.164,0.17500000000000002,0.339
-Tuberal nucleus,0.267,0.28500000000000003,0.552
-Cuneiform nucleus,0.322,0.294,0.616
-"Orbital area, medial part, layer 5",0.241,0.248,0.489
-Motor nucleus of trigeminal,0.194,0.184,0.378
-"Retrosplenial area, ventral part, layer 6b",0.018000000000000002,0.025,0.043000000000000003
-"Primary somatosensory area, upper limb, layer 5",0.418,0.406,0.8240000000000001
-Nucleus of the optic tract,0.14200000000000002,0.098,0.24000000000000002
-Ventral anterior-lateral complex of the thalamus,0.438,0.41000000000000003,0.8480000000000001
-"Orbital area, lateral part, layer 5",0.642,0.639,1.2810000000000001
-"Dentate gyrus, granule cell layer",0.843,0.8270000000000001,1.67
-inferior colliculus commissure,0.016,0.014,0.03
-Nucleus of the posterior commissure,0.137,0.139,0.276
-"Gustatory areas, layer 6a",0.231,0.23800000000000002,0.46900000000000003
-"Cortical amygdalar area, anterior part",0.402,0.40900000000000003,0.811
-Nucleus of the trapezoid body,0.078,0.081,0.159
-"Posterior auditory area, layer 2/3",0.085,0.078,0.163
-"Primary motor area, Layer 5",1.743,1.784,3.527
-"Anterolateral visual area, layer 6b",0.011,0.019,0.03
-Nucleus of the solitary tract,0.438,0.422,0.86
-Abducens nucleus,0.017,0.018000000000000002,0.035
-"Primary somatosensory area, nose, layer 4",0.3,0.303,0.603
-"Cortical amygdalar area, posterior part, lateral zone",0.64,0.647,1.287
-"Secondary motor area, layer 1",1.234,1.2730000000000001,2.507
-"Primary somatosensory area, mouth, layer 2/3",0.787,0.802,1.589
-lateral lemniscus,0.465,0.439,0.904
-Facial motor nucleus,0.493,0.489,0.982
-"Gustatory areas, layer 6b",0.023,0.024,0.047
-"Cortical amygdalar area, posterior part, medial zone",0.6880000000000001,0.6910000000000001,1.379
-"Entorhinal area, medial part, dorsal zone, layer 3",0.507,0.49,0.997
+"Primary visual area, layer 1",0.669,0.684,1.3530000000000002
+fasciculus retroflexus,0.09,0.074,0.16399999999999998
+Diagonal band nucleus,0.41200000000000003,0.357,0.769
+"Taenia tecta, dorsal part",0.40800000000000003,0.357,0.765
+"Ventral auditory area, layer 6b",0.026000000000000002,0.022,0.048
+Central medial nucleus of the thalamus,0.156,0.11,0.266
+"Dorsal auditory area, layer 2/3",0.193,0.147,0.33999999999999997
+"Anterolateral visual area, layer 6a",0.06,0.053,0.11299999999999999
+fimbria,0.781,0.8,1.581
+Nucleus incertus,0.075,0.047,0.122
+"Taenia tecta, ventral part",0.368,0.34600000000000003,0.714
+"Orbital area, ventrolateral part, layer 6a",0.123,0.121,0.244
+Subparafascicular area,0.08700000000000001,0.062,0.14900000000000002
+"Retrosplenial area, dorsal part, layer 5",0.649,0.65,1.299
+habenular commissure,0.025,0.023,0.048
+Nucleus of the lateral lemniscus,0.377,0.39,0.767
+"Lateral visual area, layer 5",0.17400000000000002,0.17500000000000002,0.34900000000000003
+Tuberal nucleus,0.262,0.279,0.541
+Cuneiform nucleus,0.323,0.26,0.583
+"Orbital area, medial part, layer 5",0.23900000000000002,0.23800000000000002,0.47700000000000004
+Motor nucleus of trigeminal,0.193,0.176,0.369
+"Retrosplenial area, ventral part, layer 6b",0.017,0.022,0.039
+"Primary somatosensory area, upper limb, layer 5",0.40900000000000003,0.394,0.803
+Nucleus of the optic tract,0.116,0.113,0.229
+Ventral anterior-lateral complex of the thalamus,0.418,0.417,0.835
+"Orbital area, lateral part, layer 5",0.631,0.631,1.262
+"Dentate gyrus, granule cell layer",0.8300000000000001,0.8300000000000001,1.6600000000000001
+inferior colliculus commissure,0.006,0.008,0.014
+Nucleus of the posterior commissure,0.132,0.134,0.266
+"Gustatory areas, layer 6a",0.23,0.23500000000000001,0.465
+"Cortical amygdalar area, anterior part",0.403,0.41400000000000003,0.8170000000000001
+Nucleus of the trapezoid body,0.08,0.085,0.165
+"Posterior auditory area, layer 2/3",0.07100000000000001,0.078,0.14900000000000002
+"Primary motor area, Layer 5",1.715,1.704,3.419
+"Anterolateral visual area, layer 6b",0.008,0.018000000000000002,0.026000000000000002
+Nucleus of the solitary tract,0.441,0.40900000000000003,0.8500000000000001
+Abducens nucleus,0.02,0.019,0.039
+"Primary somatosensory area, nose, layer 4",0.297,0.309,0.606
+"Cortical amygdalar area, posterior part, lateral zone",0.625,0.631,1.256
+"Secondary motor area, layer 1",1.202,1.226,2.428
+"Primary somatosensory area, mouth, layer 2/3",0.797,0.803,1.6
+lateral lemniscus,0.449,0.419,0.868
+Facial motor nucleus,0.484,0.499,0.983
+"Gustatory areas, layer 6b",0.024,0.02,0.044
+"Cortical amygdalar area, posterior part, medial zone",0.6920000000000001,0.662,1.354
+"Entorhinal area, medial part, dorsal zone, layer 3",0.487,0.47600000000000003,0.9630000000000001
 "lateral olfactory tract, body",0.487,0.485,0.972
-"Frontal pole, layer 2/3",0.14,0.116,0.256
-"Primary somatosensory area, trunk, layer 2/3",0.209,0.23500000000000001,0.444
-"Retrosplenial area, lateral agranular part, layer 1",0.276,0.265,0.541
-Caudoputamen,13.84,13.829,27.669
-mammillary peduncle,0.017,0.016,0.033
-"Agranular insular area, ventral part, layer 6a",0.093,0.093,0.186
-"Dorsal auditory area, layer 4",0.068,0.07100000000000001,0.139
-Superior central nucleus raphe,0.323,0.294,0.617
-"Orbital area, ventrolateral part, layer 6b",0.008,0.005,0.013000000000000001
-mammillotegmental tract,0.038,0.036000000000000004,0.07400000000000001
-Ventral medial nucleus of the thalamus,0.515,0.504,1.0190000000000001
-"Retrosplenial area, ventral part, layer 5",0.881,0.888,1.7690000000000001
-Ventrolateral preoptic nucleus,0.038,0.031,0.069
-mammilothalmic tract,0.068,0.069,0.137
-"Perirhinal area, layer 5",0.094,0.08700000000000001,0.181
-Ventromedial hypothalamic nucleus,0.28,0.273,0.553
-"Agranular insular area, ventral part, layer 2/3",0.308,0.317,0.625
-"Posterior auditory area, layer 1",0.057,0.055,0.112
-medial lemniscus,0.361,0.35000000000000003,0.7110000000000001
-Olfactory areas,1.488,1.478,2.966
+"Frontal pole, layer 2/3",0.123,0.128,0.251
+"Primary somatosensory area, trunk, layer 2/3",0.245,0.217,0.46199999999999997
+"Retrosplenial area, lateral agranular part, layer 1",0.269,0.264,0.533
+Caudoputamen,13.674,13.593,27.267
+mammillary peduncle,0.02,0.014,0.034
+"Agranular insular area, ventral part, layer 6a",0.095,0.089,0.184
+"Dorsal auditory area, layer 4",0.068,0.058,0.126
+Superior central nucleus raphe,0.318,0.29,0.608
+"Orbital area, ventrolateral part, layer 6b",0.005,0.004,0.009000000000000001
+mammillotegmental tract,0.033,0.031,0.064
+Ventral medial nucleus of the thalamus,0.508,0.486,0.994
+"Retrosplenial area, ventral part, layer 5",0.896,0.863,1.759
+Ventrolateral preoptic nucleus,0.033,0.036000000000000004,0.069
+mammilothalmic tract,0.07,0.065,0.135
+"Perirhinal area, layer 5",0.085,0.079,0.164
+Ventromedial hypothalamic nucleus,0.28,0.274,0.554
+"Agranular insular area, ventral part, layer 2/3",0.312,0.315,0.627
+"Posterior auditory area, layer 1",0.052000000000000005,0.054,0.10600000000000001
+medial lemniscus,0.356,0.35100000000000003,0.7070000000000001
+Olfactory areas,1.5090000000000001,1.49,2.999
 "Agranular insular area, ventral part, layer 6b",0.002,0.001,0.003
-"Primary somatosensory area, nose, layer 5",0.301,0.311,0.612
-Cortical subplate,0.203,0.203,0.406
-"Agranular insular area, ventral part, layer 1",0.137,0.126,0.263
-Olivary pretectal nucleus,0.036000000000000004,0.026000000000000002,0.062000000000000006
-"Infralimbic area, layer 1",0.10400000000000001,0.059000000000000004,0.163
-Cuneate nucleus,0.17500000000000002,0.17400000000000002,0.34900000000000003
-Ventral posterolateral nucleus of the thalamus,0.47000000000000003,0.48,0.95
-"Primary visual area, layer 4",0.539,0.536,1.0750000000000002
-"Ventral posterolateral nucleus of the thalamus, parvicellular part",0.046,0.051000000000000004,0.097
-"Entorhinal area, medial part, dorsal zone, layer 5",0.492,0.468,0.96
-arbor vitae,3.717,3.637,7.354
-"Temporal association areas, layer 6a",0.278,0.28200000000000003,0.56
-"Medial mammillary nucleus, median part",0.052000000000000005,0.026000000000000002,0.07800000000000001
-Ventral posteromedial nucleus of the thalamus,0.875,0.907,1.782
-"Primary auditory area, layer 1",0.2,0.20500000000000002,0.405
-"Ventral posteromedial nucleus of the thalamus, parvicellular part",0.116,0.14400000000000002,0.26
-"Entorhinal area, medial part, dorsal zone, layer 6",0.34700000000000003,0.34600000000000003,0.6930000000000001
-cerebellar commissure,0.035,0.028,0.063
-Ventral tegmental area,0.226,0.227,0.453
-"Posterolateral visual area, layer 1",0.096,0.094,0.19
-principal mammillary tract,0.018000000000000002,0.018000000000000002,0.036000000000000004
-Olfactory tubercle,2.061,2.047,4.1080000000000005
-"Ventral auditory area, layer 2/3",0.20700000000000002,0.215,0.42200000000000004
-Ventral tegmental nucleus,0.017,0.017,0.034
-"Posterior auditory area, layer 4",0.041,0.043000000000000003,0.084
-Vascular organ of the lamina terminalis,0.005,0.0,0.005
-Nucleus x,0.026000000000000002,0.023,0.049
-"Secondary motor area, layer 5",2.392,2.388,4.779999999999999
-Pons,2.037,1.824,3.8609999999999998
-"Anterior cingulate area, ventral part, layer 5",0.562,0.5720000000000001,1.1340000000000001
-Hypoglossal nucleus,0.14400000000000002,0.14400000000000002,0.28800000000000003
-"Retrosplenial area, lateral agranular part, layer 5",0.39,0.393,0.783
-"Primary visual area, layer 5",0.834,0.8310000000000001,1.665
-Posterior amygdalar nucleus,0.496,0.505,1.001
-Nucleus y,0.015,0.015,0.03
-"Agranular insular area, dorsal part, layer 6a",0.40800000000000003,0.418,0.8260000000000001
-corticospinal tract,0.048,0.044,0.092
-"Temporal association areas, layer 6b",0.048,0.033,0.081
-Piriform-amygdalar area,0.638,0.644,1.282
-"Posterior auditory area, layer 5",0.1,0.1,0.2
-spinal tract of the trigeminal nerve,0.893,0.874,1.767
-Periaqueductal gray,2.345,2.197,4.542
-Zona incerta,0.8230000000000001,0.807,1.6300000000000001
-facial nerve,0.036000000000000004,0.041,0.07700000000000001
-"Agranular insular area, ventral part, layer 5",0.391,0.385,0.776
-stria medullaris,0.122,0.14200000000000002,0.264
-Pallidum,0.5760000000000001,0.595,1.171
-Fields of Forel,0.132,0.12,0.252
-"posteromedial visual area, layer 1",0.09,0.098,0.188
-"Supplemental somatosensory area, layer 2/3",1.156,1.122,2.278
-"Anterior cingulate area, ventral part, 6a",0.188,0.194,0.382
-"Inferior colliculus, central nucleus",0.596,0.589,1.185
-superior cerebellar peduncle decussation,0.037,0.015,0.052
-Dorsal peduncular area,0.258,0.264,0.522
-"Primary auditory area, layer 4",0.124,0.127,0.251
-"Anterior cingulate area, ventral part, 6b",0.034,0.041,0.07500000000000001
-"Inferior colliculus, dorsal nucleus",0.672,0.724,1.396
-"Primary visual area, layer 2/3",1.076,1.083,2.159
-"Infralimbic area, layer 5",0.154,0.164,0.318
-"Inferior colliculus, external nucleus",1.0190000000000001,1.051,2.0700000000000003
-Dorsomedial nucleus of the hypothalamus,0.224,0.184,0.40800000000000003
-"Agranular insular area, dorsal part, layer 6b",0.023,0.02,0.043
-oculomotor nerve,0.003,0.002,0.005
-"Superior colliculus, zonal layer",0.192,0.16,0.352
-Ectorhinal area/Layer 1,0.137,0.156,0.29300000000000004
-"Primary somatosensory area, nose, layer 2/3",0.358,0.341,0.6990000000000001
-Dorsal motor nucleus of the vagus nerve,0.092,0.093,0.185
-trapezoid body,0.17500000000000002,0.153,0.328
-"Superior colliculus, superficial gray layer",0.648,0.633,1.2810000000000001
-Parasubiculum,0.47200000000000003,0.47300000000000003,0.9450000000000001
-"Primary motor area, Layer 6a",1.496,1.5070000000000001,3.003
-Dentate nucleus,0.185,0.19,0.375
-"Primary auditory area, layer 5",0.395,0.376,0.771
-optic nerve,0.033,0.037,0.07
-"Visceral area, layer 6b",0.024,0.021,0.045
-uncinate fascicle,0.041,0.033,0.07400000000000001
-"Superior colliculus, optic layer",0.319,0.319,0.638
-Parvicellular reticular nucleus,1.227,1.229,2.4560000000000004
-"Primary somatosensory area, upper limb, layer 2/3",0.482,0.507,0.989
-"Visceral area, layer 6a",0.294,0.293,0.587
-Parasolitary nucleus,0.016,0.019,0.035
-"Supplemental somatosensory area, layer 6a",1.081,1.082,2.1630000000000003
-rubrospinal tract,0.307,0.315,0.622
-ventral spinocerebellar tract,0.152,0.163,0.315
-Parabrachial nucleus,0.48,0.518,0.998
-"Posterolateral visual area, layer 4",0.026000000000000002,0.021,0.047
-Dorsal nucleus raphe,0.117,0.039,0.156
-"Supplemental somatosensory area, layer 1",0.655,0.672,1.327
-Parabigeminal nucleus,0.024,0.022,0.046
-"Primary somatosensory area, mouth, layer 1",0.404,0.42,0.8240000000000001
-Dorsal tegmental nucleus,0.049,0.054,0.10300000000000001
-"Primary motor area, Layer 6b",0.10300000000000001,0.089,0.192
-amygdalar capsule,0.099,0.088,0.187
-"Perirhinal area, layer 2/3",0.187,0.191,0.378
-"Primary somatosensory area, nose, layer 6a",0.40900000000000003,0.417,0.8260000000000001
-"Supplemental somatosensory area, layer 6b",0.101,0.106,0.20700000000000002
-"Visceral area, layer 1",0.169,0.17,0.339
-Pontine central gray,0.307,0.265,0.5720000000000001
-"anterior commissure, olfactory limb",0.41000000000000003,0.405,0.8150000000000001
-"Posterolateral visual area, layer 5",0.139,0.131,0.27
-External cuneate nucleus,0.10200000000000001,0.11,0.21200000000000002
-"Anterolateral visual area, layer 2/3",0.097,0.116,0.21300000000000002
-"Retrosplenial area, lateral agranular part, layer 6a",0.219,0.213,0.432
-Paracentral nucleus,0.122,0.122,0.244
-"anterior commissure, temporal limb",0.112,0.116,0.228
-"Orbital area, medial part, layer 6a",0.096,0.097,0.193
+"Primary somatosensory area, nose, layer 5",0.307,0.306,0.613
+Cortical subplate,0.202,0.20700000000000002,0.40900000000000003
+"Agranular insular area, ventral part, layer 1",0.139,0.13,0.269
+Olivary pretectal nucleus,0.036000000000000004,0.032,0.068
+"Infralimbic area, layer 1",0.097,0.052000000000000005,0.14900000000000002
+Cuneate nucleus,0.17500000000000002,0.168,0.343
+Ventral posterolateral nucleus of the thalamus,0.449,0.46900000000000003,0.918
+"Primary visual area, layer 4",0.537,0.539,1.076
+"Ventral posterolateral nucleus of the thalamus, parvicellular part",0.046,0.047,0.093
+"Entorhinal area, medial part, dorsal zone, layer 5",0.486,0.481,0.967
+arbor vitae,3.697,3.621,7.318
+"Temporal association areas, layer 6a",0.274,0.276,0.55
+"Medial mammillary nucleus, median part",0.049,0.028,0.077
+Ventral posteromedial nucleus of the thalamus,0.876,0.872,1.748
+"Primary auditory area, layer 1",0.189,0.20600000000000002,0.395
+"Ventral posteromedial nucleus of the thalamus, parvicellular part",0.125,0.131,0.256
+"Entorhinal area, medial part, dorsal zone, layer 6",0.352,0.353,0.705
+cerebellar commissure,0.032,0.031,0.063
+Ventral tegmental area,0.209,0.23500000000000001,0.444
+"Posterolateral visual area, layer 1",0.107,0.094,0.201
+principal mammillary tract,0.014,0.019,0.033
+Olfactory tubercle,2.021,2.011,4.032
+"Ventral auditory area, layer 2/3",0.213,0.214,0.427
+Ventral tegmental nucleus,0.016,0.017,0.033
+"Posterior auditory area, layer 4",0.036000000000000004,0.042,0.07800000000000001
+Vascular organ of the lamina terminalis,0.006,0.0,0.006
+Nucleus x,0.028,0.023,0.051000000000000004
+"Secondary motor area, layer 5",2.3890000000000002,2.4210000000000003,4.8100000000000005
+Pons,1.945,1.815,3.76
+"Anterior cingulate area, ventral part, layer 5",0.548,0.554,1.102
+Hypoglossal nucleus,0.133,0.137,0.27
+"Retrosplenial area, lateral agranular part, layer 5",0.384,0.385,0.769
+"Primary visual area, layer 5",0.8200000000000001,0.8320000000000001,1.6520000000000001
+Posterior amygdalar nucleus,0.491,0.518,1.009
+Nucleus y,0.012,0.016,0.028
+"Agranular insular area, dorsal part, layer 6a",0.41500000000000004,0.404,0.8190000000000001
+corticospinal tract,0.043000000000000003,0.041,0.084
+"Temporal association areas, layer 6b",0.047,0.035,0.082
+Piriform-amygdalar area,0.639,0.643,1.282
+"Posterior auditory area, layer 5",0.097,0.101,0.198
+spinal tract of the trigeminal nerve,0.877,0.856,1.733
+Periaqueductal gray,2.337,2.193,4.53
+Zona incerta,0.808,0.8180000000000001,1.6260000000000001
+facial nerve,0.035,0.037,0.07200000000000001
+"Agranular insular area, ventral part, layer 5",0.384,0.375,0.759
+stria medullaris,0.135,0.131,0.266
+Pallidum,0.561,0.584,1.145
+Fields of Forel,0.129,0.115,0.244
+"posteromedial visual area, layer 1",0.1,0.096,0.196
+"Supplemental somatosensory area, layer 2/3",1.105,1.108,2.213
+"Anterior cingulate area, ventral part, 6a",0.176,0.201,0.377
+"Inferior colliculus, central nucleus",0.599,0.625,1.224
+superior cerebellar peduncle decussation,0.035,0.016,0.051000000000000004
+Dorsal peduncular area,0.289,0.28500000000000003,0.5740000000000001
+"Primary auditory area, layer 4",0.115,0.128,0.243
+"Anterior cingulate area, ventral part, 6b",0.033,0.037,0.07
+"Inferior colliculus, dorsal nucleus",0.672,0.672,1.344
+"Primary visual area, layer 2/3",1.061,1.065,2.126
+"Infralimbic area, layer 5",0.148,0.152,0.3
+"Inferior colliculus, external nucleus",1.0070000000000001,1.051,2.058
+Dorsomedial nucleus of the hypothalamus,0.221,0.176,0.397
+"Agranular insular area, dorsal part, layer 6b",0.028,0.018000000000000002,0.046
+oculomotor nerve,0.003,0.003,0.006
+"Superior colliculus, zonal layer",0.19,0.155,0.345
+Ectorhinal area/Layer 1,0.14200000000000002,0.15,0.29200000000000004
+"Primary somatosensory area, nose, layer 2/3",0.342,0.333,0.675
+Dorsal motor nucleus of the vagus nerve,0.089,0.091,0.18
+trapezoid body,0.17300000000000001,0.147,0.32
+"Superior colliculus, superficial gray layer",0.594,0.629,1.2229999999999999
+Parasubiculum,0.456,0.47000000000000003,0.926
+"Primary motor area, Layer 6a",1.5130000000000001,1.561,3.074
+Dentate nucleus,0.176,0.181,0.357
+"Primary auditory area, layer 5",0.378,0.377,0.755
+optic nerve,0.036000000000000004,0.032,0.068
+"Visceral area, layer 6b",0.023,0.02,0.043
+uncinate fascicle,0.043000000000000003,0.045,0.088
+"Superior colliculus, optic layer",0.335,0.339,0.674
+Parvicellular reticular nucleus,1.229,1.214,2.443
+"Primary somatosensory area, upper limb, layer 2/3",0.499,0.521,1.02
+"Visceral area, layer 6a",0.28500000000000003,0.303,0.5880000000000001
+Parasolitary nucleus,0.018000000000000002,0.019,0.037000000000000005
+"Supplemental somatosensory area, layer 6a",1.082,1.074,2.156
+rubrospinal tract,0.304,0.304,0.608
+ventral spinocerebellar tract,0.158,0.161,0.319
+Parabrachial nucleus,0.484,0.531,1.0150000000000001
+"Posterolateral visual area, layer 4",0.022,0.021,0.043
+Dorsal nucleus raphe,0.11900000000000001,0.04,0.159
+"Supplemental somatosensory area, layer 1",0.645,0.669,1.314
+Parabigeminal nucleus,0.024,0.024,0.048
+"Primary somatosensory area, mouth, layer 1",0.41300000000000003,0.425,0.8380000000000001
+Dorsal tegmental nucleus,0.053,0.051000000000000004,0.10400000000000001
+"Primary motor area, Layer 6b",0.09,0.09,0.18
+amygdalar capsule,0.093,0.09,0.183
+"Perirhinal area, layer 2/3",0.168,0.185,0.353
+"Primary somatosensory area, nose, layer 6a",0.426,0.41400000000000003,0.8400000000000001
+"Supplemental somatosensory area, layer 6b",0.10300000000000001,0.10200000000000001,0.20500000000000002
+"Visceral area, layer 1",0.168,0.176,0.344
+Pontine central gray,0.293,0.279,0.5720000000000001
+"anterior commissure, olfactory limb",0.387,0.382,0.769
+"Posterolateral visual area, layer 5",0.14,0.129,0.269
+External cuneate nucleus,0.1,0.106,0.20600000000000002
+"Anterolateral visual area, layer 2/3",0.10400000000000001,0.10300000000000001,0.20700000000000002
+"Retrosplenial area, lateral agranular part, layer 6a",0.214,0.202,0.41600000000000004
+Paracentral nucleus,0.11800000000000001,0.123,0.241
+"anterior commissure, temporal limb",0.094,0.123,0.217
+"Orbital area, medial part, layer 6a",0.091,0.10200000000000001,0.193
 trochlear nerve,0.003,0.003,0.006
-Lingula (I),0.07100000000000001,0.05,0.12100000000000001
-Posterodorsal preoptic nucleus,0.009000000000000001,0.005,0.014000000000000002
-brachium of the superior colliculus,0.1,0.105,0.20500000000000002
-"Anterior cingulate area, dorsal part, layer 6a",0.37,0.381,0.751
-cerebal peduncle,0.506,0.456,0.962
+Lingula (I),0.078,0.055,0.133
+Posterodorsal preoptic nucleus,0.006,0.005,0.011
+brachium of the superior colliculus,0.098,0.10300000000000001,0.201
+"Anterior cingulate area, dorsal part, layer 6a",0.37,0.374,0.744
+cerebal peduncle,0.498,0.453,0.9510000000000001
 "Anterior cingulate area, dorsal part, layer 6b",0.013000000000000001,0.011,0.024
-"Primary somatosensory area, nose, layer 6b",0.03,0.027,0.056999999999999995
-Parafascicular nucleus,0.26,0.28200000000000003,0.542
-Pontine gray,0.507,0.533,1.04
-"Anterior cingulate area, dorsal part, layer 1",0.426,0.243,0.669
-Declive (VI),1.813,1.719,3.532
-"Nucleus ambiguus, dorsal division",0.013000000000000001,0.016,0.029
-cingulum bundle,0.658,0.681,1.339
-"Primary motor area, Layer 2/3",2.02,2.0100000000000002,4.03
-Folium-tuber vermis (VII),0.554,0.539,1.093
-"Primary somatosensory area, upper limb, layer 6a",0.511,0.512,1.0230000000000001
-Posterior hypothalamic nucleus,0.365,0.336,0.7010000000000001
-vomeronasal nerve,0.008,0.007,0.015
-"Primary somatosensory area, mouth, layer 4",0.495,0.494,0.989
-Pyramus (VIII),0.68,0.599,1.279
-"Endopiriform nucleus, dorsal part",0.9580000000000001,0.96,1.9180000000000001
-"Primary auditory area, layer 6a",0.169,0.154,0.323
-"Lateral reticular nucleus, magnocellular part",0.28,0.274,0.554
-"corpus callosum, anterior forceps",0.442,0.46900000000000003,0.911
-Uvula (IX),1.205,1.1,2.305
-"Ventral auditory area, layer 1",0.14200000000000002,0.145,0.28700000000000003
-Piriform area,6.1770000000000005,6.171,12.348
-"Secondary motor area, layer 2/3",2.0220000000000002,1.97,3.992
-"Lateral reticular nucleus, parvicellular part",0.03,0.027,0.056999999999999995
-"corpus callosum, extreme capsule",0.055,0.054,0.109
-"Retrosplenial area, lateral agranular part, layer 2/3",0.328,0.334,0.662
-"Endopiriform nucleus, ventral part",0.502,0.521,1.0230000000000001
-Nodulus (X),0.859,0.772,1.631
-"Orbital area, ventrolateral part, layer 1",0.215,0.211,0.426
-"Paragigantocellular reticular nucleus, dorsal part",0.124,0.13,0.254
-"corpus callosum, posterior forceps",0.719,0.733,1.452
-"Lateral visual area, layer 2/3",0.164,0.164,0.328
-"Primary somatosensory area, mouth, layer 5",0.635,0.637,1.272
-Edinger-Westphal nucleus,0.018000000000000002,0.0,0.018000000000000002
-Lobule II,0.711,0.661,1.3719999999999999
-Ectorhinal area/Layer 6a,0.194,0.20500000000000002,0.399
-"Paragigantocellular reticular nucleus, lateral part",0.372,0.382,0.754
-Dorsal premammillary nucleus,0.079,0.082,0.161
-"Primary somatosensory area, barrel field, layer 1",0.454,0.45,0.904
-Fasciola cinerea,0.031,0.032,0.063
-Lobule III,1.485,1.397,2.882
-"corpus callosum, splenium",0.387,0.358,0.745
-Ectorhinal area/Layer 5,0.274,0.266,0.54
-Fastigial nucleus,0.254,0.261,0.515
-"Ventral auditory area, layer 4",0.106,0.109,0.215
-"Agranular insular area, dorsal part, layer 1",0.24,0.247,0.487
-root,2.004,1.7910000000000001,3.795
-Fundus of striatum,0.226,0.22,0.446
-Ventral premammillary nucleus,0.114,0.101,0.21500000000000002
-"Primary auditory area, layer 6b",0.024,0.024,0.048
-"Primary somatosensory area, trunk, layer 1",0.11900000000000001,0.108,0.227
-Simple lobule,3.059,3.021,6.08
-fiber tracts,0.804,0.785,1.589
-"Visceral area, layer 4",0.095,0.10400000000000001,0.199
-"Anterior cingulate area, dorsal part, layer 5",0.668,0.665,1.3330000000000002
-olfactory nerve layer of main olfactory bulb,0.268,0.3,0.5680000000000001
-Posterior complex of the thalamus,0.678,0.644,1.322
-"Secondary motor area, layer 6a",1.292,1.2590000000000001,2.551
-"Globus pallidus, external segment",0.803,0.8260000000000001,1.629
-"Ventral auditory area, layer 5",0.296,0.305,0.601
-Paramedian lobule,2.594,2.615,5.209
-"Primary somatosensory area, upper limb, layer 6b",0.039,0.041,0.08
-Posterior limiting nucleus of the thalamus,0.115,0.106,0.221
-"Primary somatosensory area, lower limb, layer 1",0.153,0.158,0.311
-"Globus pallidus, internal segment",0.224,0.243,0.46699999999999997
-Copula pyramidis,1.284,1.321,2.605
-"Supplemental somatosensory area, layer 4",0.632,0.629,1.2610000000000001
-Postsubiculum,0.581,0.5690000000000001,1.15
-"Primary somatosensory area, barrel field, layer 6a",0.6950000000000001,0.6910000000000001,1.3860000000000001
-Gracile nucleus,0.046,0.041,0.087
-Paraflocculus,3.064,3.069,6.133
-crossed tectospinal pathway,0.266,0.266,0.532
-Peripeduncular nucleus,0.031,0.034,0.065
-Ectorhinal area/Layer 6b,0.032,0.023,0.055
-"Anteromedial visual area, layer 6a",0.076,0.07200000000000001,0.14800000000000002
-"Primary somatosensory area, barrel field, layer 4",0.685,0.6910000000000001,1.3760000000000001
-Gigantocellular reticular nucleus,1.437,1.352,2.789
-Flocculus,0.7030000000000001,0.7000000000000001,1.403
-Pedunculopontine nucleus,0.46900000000000003,0.468,0.937
-"Infralimbic area, layer 6a",0.117,0.11900000000000001,0.23600000000000002
-Crus 1,2.978,2.994,5.972
-"Visceral area, layer 5",0.377,0.384,0.761
-doral tegmental decussation,0.003,0.001,0.004
-Posterior pretectal nucleus,0.069,0.07,0.139
-"Primary somatosensory area, barrel field, layer 6b",0.081,0.075,0.156
-Crus 2,2.705,2.706,5.411
-"Anteromedial visual area, layer 2/3",0.111,0.10200000000000001,0.21300000000000002
-Parapyramidal nucleus,0.05,0.056,0.10600000000000001
-"Primary somatosensory area, barrel field, layer 5",0.636,0.607,1.2429999999999999
-"Medial geniculate complex, dorsal part",0.084,0.091,0.175
-"Anterolateral visual area, layer 1",0.057,0.065,0.122
-Perireunensis nucleus,0.089,0.082,0.17099999999999999
-"Medial geniculate complex, ventral part",0.149,0.149,0.298
-"Infralimbic area, layer 6b",0.003,0.007,0.01
-Presubiculum,0.47600000000000003,0.484,0.96
-"Secondary motor area, layer 6b",0.044,0.042,0.086
-"Primary somatosensory area, trunk, layer 4",0.078,0.085,0.163
-"Medial geniculate complex, medial part",0.139,0.13,0.269
-Hippocampal formation,0.216,0.218,0.434
-"Supplemental somatosensory area, layer 5",1.168,1.155,2.323
-Lobules IV-V,3.676,3.501,7.177
-external medullary lamina of the thalamus,0.055,0.058,0.113
-"Pontine reticular nucleus, caudal part",1.239,1.236,2.475
-"Primary somatosensory area, lower limb, layer 4",0.15,0.147,0.297
-"Anteromedial nucleus, dorsal part",0.139,0.134,0.273
-Hypothalamus,1.5010000000000001,1.439,2.9400000000000004
-"Medullary reticular nucleus, dorsal part",0.537,0.546,1.0830000000000002
-"Agranular insular area, dorsal part, layer 5",0.805,0.801,1.606
-"Primary somatosensory area, mouth, layer 6a",0.906,0.915,1.8210000000000002
-"Anteromedial nucleus, ventral part",0.093,0.094,0.187
-Intercalated amygdalar nucleus,0.091,0.081,0.172
-"Visceral area, layer 2/3",0.278,0.28400000000000003,0.562
-"Medullary reticular nucleus, ventral part",0.47200000000000003,0.47400000000000003,0.9460000000000001
-genu of corpus callosum,0.439,0.418,0.857
-Parastrial nucleus,0.05,0.061,0.111
-"Primary somatosensory area, trunk, layer 5",0.187,0.186,0.373
-Interanterodorsal nucleus of the thalamus,0.07200000000000001,0.068,0.14
-"Anterolateral visual area, layer 4",0.056,0.065,0.121
-genu of the facial nerve,0.014,0.018000000000000002,0.032
-Interanteromedial nucleus of the thalamus,0.025,0.018000000000000002,0.043000000000000003
-"Entorhinal area, lateral part, layer 1",0.536,0.52,1.056
-inferior cerebellar peduncle,0.38,0.385,0.765
-"Orbital area, ventrolateral part, layer 5",0.329,0.34,0.669
-"Tuberomammillary nucleus, dorsal part",0.024,0.024,0.048
-"Temporal association areas, layer 2/3",0.398,0.39,0.788
-"Primary somatosensory area, lower limb, layer 5",0.291,0.291,0.582
-"Nucleus of the lateral olfactory tract, layer 3",0.026000000000000002,0.028,0.054000000000000006
-Median eminence,0.063,0.038,0.101
-"Dentate gyrus, molecular layer",2.277,2.291,4.568
-"Dentate gyrus, polymorph layer",0.342,0.34500000000000003,0.687
-"Rostrolateral area, layer 6b",0.628,0.631,1.259
-"Prosubiculum, ventral part, molecular layer",0.76,0.787,1.5470000000000002
-commissural branch of stria terminalis,2.862,2.813,5.675000000000001
-"Dorsal part of the lateral geniculate complex, shell",0.381,0.383,0.764
+"Primary somatosensory area, nose, layer 6b",0.027,0.027,0.054
+Parafascicular nucleus,0.249,0.276,0.525
+Pontine gray,0.511,0.509,1.02
+"Anterior cingulate area, dorsal part, layer 1",0.425,0.243,0.6679999999999999
+Declive (VI),1.7770000000000001,1.665,3.442
+"Nucleus ambiguus, dorsal division",0.016,0.015,0.031
+cingulum bundle,0.64,0.678,1.318
+"Primary motor area, Layer 2/3",1.978,1.953,3.931
+Folium-tuber vermis (VII),0.577,0.538,1.115
+"Primary somatosensory area, upper limb, layer 6a",0.494,0.494,0.988
+Posterior hypothalamic nucleus,0.368,0.337,0.7050000000000001
+vomeronasal nerve,0.007,0.007,0.014
+"Primary somatosensory area, mouth, layer 4",0.489,0.489,0.978
+Pyramus (VIII),0.646,0.585,1.2309999999999999
+"Endopiriform nucleus, dorsal part",0.9560000000000001,0.936,1.8920000000000001
+"Primary auditory area, layer 6a",0.17,0.155,0.325
+"Lateral reticular nucleus, magnocellular part",0.274,0.258,0.532
+"corpus callosum, anterior forceps",0.446,0.45,0.896
+Uvula (IX),1.181,1.116,2.297
+"Ventral auditory area, layer 1",0.14,0.14400000000000002,0.28400000000000003
+Piriform area,6.0680000000000005,6.065,12.133000000000001
+"Secondary motor area, layer 2/3",2.048,1.97,4.018
+"Lateral reticular nucleus, parvicellular part",0.031,0.032,0.063
+"corpus callosum, extreme capsule",0.054,0.055,0.109
+"Retrosplenial area, lateral agranular part, layer 2/3",0.334,0.334,0.668
+"Endopiriform nucleus, ventral part",0.495,0.497,0.992
+Nodulus (X),0.805,0.736,1.541
+"Orbital area, ventrolateral part, layer 1",0.214,0.211,0.425
+"Paragigantocellular reticular nucleus, dorsal part",0.126,0.13,0.256
+"corpus callosum, posterior forceps",0.7030000000000001,0.71,1.413
+"Lateral visual area, layer 2/3",0.159,0.164,0.323
+"Primary somatosensory area, mouth, layer 5",0.627,0.641,1.268
+Edinger-Westphal nucleus,0.019,0.0,0.019
+Lobule II,0.714,0.651,1.365
+Ectorhinal area/Layer 6a,0.198,0.198,0.396
+"Paragigantocellular reticular nucleus, lateral part",0.376,0.373,0.749
+Dorsal premammillary nucleus,0.082,0.077,0.159
+"Primary somatosensory area, barrel field, layer 1",0.453,0.44,0.893
+Fasciola cinerea,0.03,0.031,0.061
+Lobule III,1.429,1.362,2.7910000000000004
+"corpus callosum, splenium",0.391,0.36,0.751
+Ectorhinal area/Layer 5,0.28,0.264,0.544
+Fastigial nucleus,0.247,0.241,0.488
+"Ventral auditory area, layer 4",0.114,0.108,0.222
+"Agranular insular area, dorsal part, layer 1",0.23600000000000002,0.244,0.48
+root,1.992,1.77,3.762
+Fundus of striatum,0.216,0.215,0.431
+Ventral premammillary nucleus,0.098,0.112,0.21000000000000002
+"Primary auditory area, layer 6b",0.024,0.031,0.055
+"Primary somatosensory area, trunk, layer 1",0.11900000000000001,0.105,0.224
+Simple lobule,3.007,2.957,5.964
+fiber tracts,0.8220000000000001,0.778,1.6
+"Visceral area, layer 4",0.098,0.105,0.203
+"Anterior cingulate area, dorsal part, layer 5",0.665,0.654,1.319
+olfactory nerve layer of main olfactory bulb,0.305,0.329,0.634
+Posterior complex of the thalamus,0.675,0.653,1.328
+"Secondary motor area, layer 6a",1.2630000000000001,1.217,2.4800000000000004
+"Globus pallidus, external segment",0.786,0.8280000000000001,1.614
+"Ventral auditory area, layer 5",0.311,0.293,0.604
+Paramedian lobule,2.584,2.571,5.155
+"Primary somatosensory area, upper limb, layer 6b",0.04,0.037,0.077
+Posterior limiting nucleus of the thalamus,0.11,0.10200000000000001,0.21200000000000002
+"Primary somatosensory area, lower limb, layer 1",0.152,0.181,0.33299999999999996
+"Globus pallidus, internal segment",0.227,0.233,0.46
+Copula pyramidis,1.249,1.316,2.5650000000000004
+"Supplemental somatosensory area, layer 4",0.625,0.621,1.246
+Postsubiculum,0.56,0.555,1.1150000000000002
+"Primary somatosensory area, barrel field, layer 6a",0.665,0.6880000000000001,1.3530000000000002
+Gracile nucleus,0.045,0.04,0.08499999999999999
+Paraflocculus,3.081,2.996,6.077
+crossed tectospinal pathway,0.261,0.265,0.526
+Peripeduncular nucleus,0.033,0.03,0.063
+Ectorhinal area/Layer 6b,0.032,0.025,0.057
+"Anteromedial visual area, layer 6a",0.066,0.064,0.13
+"Primary somatosensory area, barrel field, layer 4",0.666,0.679,1.3450000000000002
+Gigantocellular reticular nucleus,1.413,1.327,2.74
+Flocculus,0.6960000000000001,0.6920000000000001,1.3880000000000001
+Pedunculopontine nucleus,0.47000000000000003,0.446,0.916
+"Infralimbic area, layer 6a",0.109,0.107,0.216
+Crus 1,2.972,2.916,5.888
+"Visceral area, layer 5",0.364,0.387,0.751
+doral tegmental decussation,0.004,0.001,0.005
+Posterior pretectal nucleus,0.08600000000000001,0.067,0.15300000000000002
+"Primary somatosensory area, barrel field, layer 6b",0.083,0.074,0.157
+Crus 2,2.658,2.69,5.348
+"Anteromedial visual area, layer 2/3",0.114,0.111,0.225
+Parapyramidal nucleus,0.049,0.055,0.10400000000000001
+"Primary somatosensory area, barrel field, layer 5",0.624,0.61,1.234
+"Medial geniculate complex, dorsal part",0.083,0.084,0.167
+"Anterolateral visual area, layer 1",0.057,0.059000000000000004,0.116
+Perireunensis nucleus,0.084,0.077,0.161
+"Medial geniculate complex, ventral part",0.146,0.14300000000000002,0.28900000000000003
+"Infralimbic area, layer 6b",0.003,0.005,0.008
+Presubiculum,0.47700000000000004,0.482,0.9590000000000001
+"Secondary motor area, layer 6b",0.046,0.046,0.092
+"Primary somatosensory area, trunk, layer 4",0.081,0.085,0.166
+"Medial geniculate complex, medial part",0.132,0.128,0.26
+Hippocampal formation,0.218,0.227,0.445
+"Supplemental somatosensory area, layer 5",1.184,1.1400000000000001,2.324
+Lobules IV-V,3.618,3.482,7.1
+external medullary lamina of the thalamus,0.055,0.063,0.118
+"Pontine reticular nucleus, caudal part",1.225,1.226,2.451
+"Primary somatosensory area, lower limb, layer 4",0.148,0.153,0.301
+"Anteromedial nucleus, dorsal part",0.123,0.14,0.263
+Hypothalamus,1.5230000000000001,1.383,2.906
+"Medullary reticular nucleus, dorsal part",0.511,0.544,1.0550000000000002
+"Agranular insular area, dorsal part, layer 5",0.787,0.789,1.576
+"Primary somatosensory area, mouth, layer 6a",0.85,0.857,1.7069999999999999
+"Anteromedial nucleus, ventral part",0.08700000000000001,0.096,0.183
+Intercalated amygdalar nucleus,0.082,0.092,0.174
+"Visceral area, layer 2/3",0.27,0.28200000000000003,0.552
+"Medullary reticular nucleus, ventral part",0.462,0.468,0.93
+genu of corpus callosum,0.406,0.428,0.8340000000000001
+Parastrial nucleus,0.054,0.054,0.108
+"Primary somatosensory area, trunk, layer 5",0.176,0.188,0.364
+Interanterodorsal nucleus of the thalamus,0.064,0.062,0.126
+"Anterolateral visual area, layer 4",0.057,0.056,0.113
+genu of the facial nerve,0.015,0.018000000000000002,0.033
+Interanteromedial nucleus of the thalamus,0.027,0.022,0.049
+"Entorhinal area, lateral part, layer 1",0.532,0.51,1.042
+inferior cerebellar peduncle,0.372,0.38,0.752
+"Orbital area, ventrolateral part, layer 5",0.334,0.329,0.663
+"Tuberomammillary nucleus, dorsal part",0.02,0.021,0.041
+"Temporal association areas, layer 2/3",0.383,0.384,0.767
+"Primary somatosensory area, lower limb, layer 5",0.305,0.291,0.596
+"Nucleus of the lateral olfactory tract, layer 3",0.027,0.026000000000000002,0.053000000000000005
+Median eminence,0.061,0.038,0.099
+"Dentate gyrus, molecular layer",2.267,2.285,4.552
+"Dentate gyrus, polymorph layer",0.338,0.332,0.67
+"Rostrolateral area, layer 6b",0.648,0.621,1.2690000000000001
+"Prosubiculum, ventral part, molecular layer",0.77,0.779,1.549
+commissural branch of stria terminalis,2.809,2.7880000000000003,5.597
+"Dorsal part of the lateral geniculate complex, shell",0.376,0.372,0.748
