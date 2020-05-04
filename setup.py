@@ -20,7 +20,7 @@ requirements = [
     "fancylog",
     "micrometa",
     "imlib == 0.0.23rc0",
-    "napari>=0.2.8",
+    "napari>=0.2.12",
     "scikit-image",
     "luddite",
     "neuro>=0.0.11",
