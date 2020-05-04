@@ -22,7 +22,6 @@ requirements = [
     "imlib >= 0.0.23",
     "napari>=0.2.12",
     "scikit-image",
-    "luddite",
     "neuro>=0.0.11",
 ]
 
