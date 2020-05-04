@@ -50,7 +50,7 @@ matrix:
     - stage: test
       name: "macOS Python 3.7"
       os: osx
-      osx_image: xcode9.2   #macOS 10.12
+#      osx_image: xcode9.2   #macOS 10.12
       language: shell
       env: TRAVIS_PYTHON_VERSION=3.7
       script: travis_wait 40 bash travis/install_test_osx.sh
