@@ -4,9 +4,6 @@ after_success:
 
 stages:
   - test
-#  - name: deploy
-#    if:
-#      tag IS present AND repo = SainsburyWellcomeCentre/amap
 
 matrix:
   include:
@@ -40,73 +37,18 @@ matrix:
       before_install:
         - source travis/install_windows.sh
       script: travis_wait 40 bash travis/test_windows.sh
-#    - stage: test
-#      name: "macOS Python 3.6"
-#      os: osx
-#      osx_image: xcode9.2   #macOS 10.12
-#      language: shell
-#      env: TRAVIS_PYTHON_VERSION=3.6
-#      script: travis_wait 40 bash travis/install_test_osx.sh
+    - stage: test
+      name: "macOS Python 3.6"
+      os: osx
+      language: shell
+      env: TRAVIS_PYTHON_VERSION=3.6
+      script: travis_wait 40 bash travis/install_test_osx.sh
     - stage: test
       name: "macOS Python 3.7"
       os: osx
-#      osx_image: xcode9.2   #macOS 10.12
       language: shell
       env: TRAVIS_PYTHON_VERSION=3.7
       script: travis_wait 40 bash travis/install_test_osx.sh
-#    - stage: deploy
-#      name: "Deploy Linux (py36 & py37)"
-#      language: python
-#      services:
-#        - docker
-#      script:
-#        - mkdir pypi_upload
-#        - python setup.py sdist
-#        - cp dist/* pypi_upload/
-#        - docker run --rm -v $(pwd):/io quay.io/pypa/manylinux2010_x86_64 /io/travis/build_linux_wheels.sh
-#        - cp wheelhouse/manylinux/* pypi_upload/
-#      after_success:
-#        - pip install twine
-#        - ls pypi_upload/*
-#        - twine upload pypi_upload/* --skip-existing
-#    - stage: deploy
-#      name: "Deploy Windows (py36)"
-#      language: shell
-#      env: TRAVIS_PYTHON_VERSION=3.6
-#      os: windows
-#      before_install:
-#        - source travis/install_windows.sh
-#      script:
-#        - source travis/build_windows_wheels.sh
-#      after_success:
-#        - pip install twine
-#        - twine upload dist/* --skip-existing
-#    - stage: deploy
-#      name: "Deploy Windows (py37)"
-#      language: shell
-#      env: TRAVIS_PYTHON_VERSION=3.7
-#      os: windows
-#      before_install:
-#        - source travis/install_windows.sh
-#      script:
-#        - source travis/build_windows_wheels.sh
-#      after_success:
-#        - pip install twine
-#        - twine upload dist/* --skip-existing
-#    - stage: deploy
-#      name: "Deploy macOS (py36)"
-#      language: shell
-#      env: TRAVIS_PYTHON_VERSION=3.6
-#      os: osx
-#      osx_image: xcode9.2   #macOS 10.12
-#      script: bash travis/install_build_wheels_osx.sh
-#    - stage: deploy
-#      name: "Deploy macOS (py37)"
-#      language: shell
-#      env: TRAVIS_PYTHON_VERSION=3.7
-#      os: osx
-#      osx_image: xcode9.2   #macOS 10.12
-#      script: bash travis/install_build_wheels_osx.sh
 notifications:
   email:
     recipients:
@@ -123,8 +65,3 @@ deploy:
     on:
       branch: master
       tags: true
-#
-#env:
-#  global:
-#    - TWINE_USERNAME=__token__
-#    # TWINE_PASSWORD is set to a PyPI API token in Travis settings
