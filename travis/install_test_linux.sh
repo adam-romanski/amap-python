@@ -11,4 +11,4 @@ conda info -a
 black ./ -l 79 --target-version py37 --check
 amap -h
 amap_download --atlas allen_2017_100um
-amap --cov=amap
+pytest --cov=amap
