@@ -49,7 +49,7 @@ matrix:
       language: shell
       env: TRAVIS_PYTHON_VERSION=3.7
       script:
-        - bash travis/setup_osx.sh
+#        - bash travis/setup_osx.sh
         - bash travis/install_test_osx.sh
 notifications:
   email:
