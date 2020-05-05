@@ -48,7 +48,9 @@ matrix:
       os: osx
       language: shell
       env: TRAVIS_PYTHON_VERSION=3.7
-      script: travis_wait 40 bash travis/install_test_osx.sh
+      script:
+        - bash travis/setup_osx.sh
+        - bash travis/install_test_osx.sh
 notifications:
   email:
     recipients:
