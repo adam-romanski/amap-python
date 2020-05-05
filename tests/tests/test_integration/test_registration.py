@@ -1,15 +1,13 @@
 import os
-from pathlib import Path
 import sys
-import pytest
 
 import pandas as pd
+
+from numpy import isclose
 
 from brainio.brainio import load_nii
 from imlib.general.string import get_text_lines
 
-from imlib.general.config import get_config_obj
-from amap.download.cli import main as amap_download
 from amap.cli import run as amap_run
 
 data_dir = os.path.join(os.getcwd(), "tests", "data", "brain",)
@@ -20,6 +18,8 @@ test_output_dir = os.path.join(
 x_pix = "40"
 y_pix = "40"
 z_pix = "50"
+
+relative_tolerance = 1e-03
 
 
 def test_register(tmpdir, test_config_path):
@@ -90,4 +90,4 @@ def are_images_equal(image_name, output_directory, test_output_directory):
         os.path.join(test_output_directory, image_name), as_array=True
     )
 
-    assert (image == test_image).all()
+    assert (isclose(image, test_image, rtol=relative_tolerance)).all()
