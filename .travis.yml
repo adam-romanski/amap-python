@@ -34,23 +34,14 @@ matrix:
       language: shell
       env: TRAVIS_PYTHON_VERSION=3.7
       os: windows
-      before_install:
-        - source travis/install_windows.sh
+      before_install: source travis/install_windows.sh
       script: travis_wait 40 bash travis/test_windows.sh
-#    - stage: test
-#      name: "macOS Python 3.6"
-#      os: osx
-#      language: shell
-#      env: TRAVIS_PYTHON_VERSION=3.6
-#      script: travis_wait 40 bash travis/install_test_osx.sh
     - stage: test
       name: "macOS Python 3.7"
       os: osx
       language: shell
       env: TRAVIS_PYTHON_VERSION=3.7
-      script:
-#        - bash travis/setup_osx.sh
-        - bash travis/install_test_osx.sh
+      script: bash travis/install_test_osx.sh
 notifications:
   email:
     recipients:
