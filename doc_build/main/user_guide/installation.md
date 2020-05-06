@@ -1,5 +1,9 @@
 # Installation
 
+**Tested on Ubuntu (16.04 & 18.04) and Windows 10.**
+
+*N.B. results may vary very slightly between operating systems*
+
 #### Set up conda environment and install dependencies
 **Recommended, allthough not necessary**
 
