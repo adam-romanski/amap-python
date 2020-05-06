@@ -28,7 +28,7 @@ requirements = [
 
 setup(
     name="amap",
-    version="0.1.20rc0",
+    version="0.1.20rc1",
     description="Automated mouse atlas propagation",
     long_description=long_description,
     long_description_content_type="text/markdown",
