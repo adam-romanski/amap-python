@@ -19,7 +19,7 @@ requirements = [
     "brainio == 0.0.14",
     "fancylog",
     "micrometa",
-    "imlib >= 0.0.23",
+    "imlib >= 0.0.24",
     "napari>=0.2.12",
     "scikit-image",
     "neuro>=0.0.11",
@@ -28,7 +28,7 @@ requirements = [
 
 setup(
     name="amap",
-    version="0.1.20",
+    version="0.1.20rc0",
     description="Automated mouse atlas propagation",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -43,8 +43,9 @@ setup(
             "pytest-cov",
             "pytest",
             "gitpython",
-            "coveralls",
-            "coverage<=4.5.4",
+            # "coverage<=4.5.4",
+            "coverage",
+            # "coveralls"
         ]
     },
     python_requires=">=3.6, <3.8",
