@@ -46,6 +46,7 @@ jobs:
 #      env: TRAVIS_PYTHON_VERSION=3.7
 #      script: travis_wait 40 bash travis/install_test_osx.sh
     - stage: deploy
+      dist: bionic
       name: "Deploy Linux"
       language: python
       script: bash travis/deploy_linux.sh
