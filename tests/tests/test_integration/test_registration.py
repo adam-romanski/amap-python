@@ -1,5 +1,6 @@
 import os
 import sys
+import platform
 
 import pandas as pd
 
@@ -11,8 +12,10 @@ from imlib.general.string import get_text_lines
 from amap.cli import run as amap_run
 
 data_dir = os.path.join(os.getcwd(), "tests", "data", "brain",)
+
+
 test_output_dir = os.path.join(
-    os.getcwd(), "tests", "data", "registration_output",
+    os.getcwd(), "tests", "data", "registration_output", platform.system()
 )
 
 x_pix = "40"
