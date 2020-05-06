@@ -48,7 +48,7 @@ def test_register(tmpdir, test_config_path):
 
     image_list = [
         "annotations.nii",
-        # "boundaries.nii",
+        "boundaries.nii",
         "brain_filtered.nii",
         "control_point_file.nii",
         "downsampled.nii",
