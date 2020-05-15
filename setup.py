@@ -16,11 +16,12 @@ requirements = [
     "multiprocessing-logging",
     "configobj",
     "slurmio",
-    "brainio == 0.0.14",
+    "brainio==0.0.14",
     "fancylog",
     "micrometa",
-    "imlib >= 0.0.24",
-    "napari>=0.2.12",
+    "imlib>=0.0.25",
+    "dask >= 2.15.0",
+    "napari>=0.3.0",
     "scikit-image",
     "neuro>=0.0.11",
 ]
@@ -28,7 +29,7 @@ requirements = [
 
 setup(
     name="amap",
-    version="0.1.20",
+    version="0.1.21",
     description="Automated mouse atlas propagation",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -43,9 +44,7 @@ setup(
             "pytest-cov",
             "pytest",
             "gitpython",
-            # "coverage<=4.5.4",
             "coverage",
-            # "coveralls"
         ]
     },
     python_requires=">=3.6, <3.8",

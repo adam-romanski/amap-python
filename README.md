@@ -31,6 +31,7 @@ written in Java), which has been
 
 The actual registration is carried out by [NiftyReg](http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg).
 
+Documentation can be found [here](https://docs.cellfinder.info/amap/introduction).
 ## Details
 The aim of amap is to register the template brain
  (e.g. from the [Allen Reference Atlas](https://mouse.brain-map.org/static/atlas))
