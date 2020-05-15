@@ -23,13 +23,13 @@ requirements = [
     "dask >= 2.15.0",
     "napari>=0.3.0",
     "scikit-image",
-    "neuro>=0.0.11",
+    "neuro>=0.0.12rc2",
 ]
 
 
 setup(
     name="amap",
-    version="0.1.21",
+    version="0.1.22rc0",
     description="Automated mouse atlas propagation",
     long_description=long_description,
     long_description_content_type="text/markdown",
