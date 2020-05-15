@@ -38,7 +38,7 @@ def generate_test_config(atlas_dir):
     for i, line in enumerate(data):
         data[i] = line.replace(
             f"base_folder = '{orig_base_directory}",
-            f"base_folder = '{os.path.join(atlas_dir, TEST_ATLAS)}",
+            f"base_folder = '{os.path.join(atlas_dir,'atlas', TEST_ATLAS)}",
         )
     test_config = os.path.join(atlas_dir, "config.conf")
     with open(test_config, "w") as out_conf:
@@ -49,7 +49,6 @@ def generate_test_config(atlas_dir):
 
 @pytest.fixture()
 def test_config_path(tmpdir):
-    print("fixture")
     atlas_directory = str(tmpdir)
     download_atlas(atlas_directory)
     test_config = generate_test_config(atlas_directory)

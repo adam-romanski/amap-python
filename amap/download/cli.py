@@ -7,7 +7,7 @@ from amap.download.download import amend_cfg, download
 
 
 home = Path.home()
-DEFAULT_DOWNLOAD_DIRECTORY = home / ".amap" / "atlas"
+DEFAULT_DOWNLOAD_DIRECTORY = home / ".amap"
 temp_dir = tempfile.TemporaryDirectory()
 temp_dir_path = Path(temp_dir.name)
 
@@ -31,6 +31,7 @@ extract_requirements_gb = {
 
 def atlas_download(atlas, atlas_dir, download_path):
     # Check if all the 4 .nii files are in the directory, else download again:
+    atlas_dir = atlas_dir / "atlas"
     if len(list((atlas_dir / atlas).glob("*.nii"))) < 4:
         atlas_dir.mkdir(exist_ok=True, parents=True)
         download(

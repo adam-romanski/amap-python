@@ -26,7 +26,6 @@ check_less_precise_pd = 1
 
 
 def test_register(tmpdir, test_config_path):
-
     output_directory = os.path.join(str(tmpdir), "output")
     amap_args = [
         "amap",
