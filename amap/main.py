@@ -16,7 +16,7 @@ from amap.vis.boundaries import main as calc_boundaries
 from amap.register.registration_params import RegistrationParams
 from amap.register.tools import save_downsampled_image
 from amap.utils.run import Run
-from amap.utils.transformations import flip_multiple
+from amap.utils.transformations import flip_multiple, rotate_multiple
 
 flips = {
     "horizontal": (True, True, False),
@@ -113,26 +113,25 @@ def main(
 
         for element in ["atlas", "brain", "hemispheres"]:
             key = f"{element}_name"
+            logging.debug(f"Transforming atlas file: {element}")
             nii_img = atlas.get_nii_from_element(key)
             data = np.asanyarray(nii_img.dataobj)
 
-            # reorients the atlas to the orientation of the sample
+            logging.debug("Reorienting to sample orientation")
             data = np.transpose(
                 data, transpositions[brain.original_orientation]
             )
             data = np.swapaxes(data, 0, 1)
-            # reorients atlas to the nifti (origin is the most ventral, posterior,
-            # left voxel) coordinate framework
+
+            logging.debug("Reorientating to nifti orientation")
             data = flip_multiple(data, flips[orientation])
 
-            # flips if the input data doesnt match the nifti standard
+            logging.debug("Flipping to nifti orientation")
             data = flip_multiple(data, [flip_x, flip_y, flip_z])
 
-            ####################
-            # axes = (0, 1)
-            # k = 3
-            # brain.rotate_atlas(axes, k)
-            ####################
+            logging.debug("Rotating to sample orientation")
+            data = rotate_multiple(data, rotation)
+
             new_img = nb.Nifti1Image(data, nii_img.affine, nii_img.header)
             brainio.to_nii(new_img, atlas.get_dest_path(key))
 
