@@ -1,5 +1,10 @@
 import numpy as np
 
+from imlib.cells.cells import pos_from_file_name
+
+# planes to rotate around, for x, y, z
+AXES = [(1, 2), (0, 2), (0, 1)]
+
 
 def get_transf_matrix_from_res(pix_sizes):
     """ Create transformation matrix in mm
@@ -25,4 +30,17 @@ def flip_multiple(data, flips):
         if flip_axis:
             data = np.flip(data, axis_idx)
 
+    return data
+
+
+def rotate_multiple(data, rotation_string):
+    rotation_numbers = pos_from_file_name(rotation_string)
+    for i in zip(AXES, rotation_numbers):
+        data = rotate(data, i[0], i[1])
+    return data
+
+
+def rotate(data, axes, k):
+    data = np.rot90(np.asanyarray(data), axes=axes, k=k)
+    # data = np.swapaxes(data, 0, 1)
     return data
