@@ -99,7 +99,7 @@ def write_atlas_to_cfg(atlas_folder, atlas, orig_config, custom_config):
     for i, line in enumerate(data):
         data[i] = line.replace(
             f"base_folder = '{orig_base_directory}",
-            f"base_folder = '{atlas_folder / atlas}",
+            f"base_folder = '{atlas_folder / 'atlas' /atlas}",
         )
     with open(custom_config, "w") as out_conf:
         out_conf.writelines(data)
