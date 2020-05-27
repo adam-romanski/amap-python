@@ -29,6 +29,7 @@ def register_cli_parser():
     parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
     parser = cli_parse(parser)
     parser = visualisation_parser(parser)
+    parser = config_parse(parser)
     parser = registration_parse(parser)
     parser = pixel_parser(parser)
     parser = geometry_parser(parser)
@@ -195,15 +196,21 @@ def visualisation_parser(parser):
     return parser
 
 
-def registration_parse(parser):
-    registration_opt_parser = parser.add_argument_group("Registration options")
-    registration_opt_parser.add_argument(
+def config_parse(parser):
+    config_opt_parser = parser.add_argument_group("Config options")
+    config_opt_parser.add_argument(
         "--registration-config",
         dest="registration_config",
         type=str,
         default=source_files.source_custom_config_amap(),
         help="To supply your own, custom registration configuration file.",
     )
+
+    return parser
+
+
+def registration_parse(parser):
+    registration_opt_parser = parser.add_argument_group("Registration options")
     registration_opt_parser.add_argument(
         "--sort-input-file",
         dest="sort_input_file",
