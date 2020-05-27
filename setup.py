@@ -23,7 +23,7 @@ requirements = [
     "dask >= 2.15.0",
     "napari>=0.3.0",
     "scikit-image",
-    "neuro>=0.0.12rc2",
+    "neuro>=0.0.12",
 ]
 
 
