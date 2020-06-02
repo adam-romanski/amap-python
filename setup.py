@@ -16,7 +16,7 @@ requirements = [
     "multiprocessing-logging",
     "configobj",
     "slurmio",
-    "brainio>=0.0.15",
+    "brainio>=0.0.17",
     "fancylog",
     "micrometa",
     "imlib>=0.0.25",
