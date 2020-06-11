@@ -22,7 +22,7 @@ requirements = [
     "imlib>=0.0.25",
     "dask>=2.15.0",
     "napari>=0.3.0",
-    "scikit-image",
+    "scikit-image==0.16.2",
     "neuro>=0.0.13",
 ]
 
