@@ -16,14 +16,14 @@ requirements = [
     "multiprocessing-logging",
     "configobj",
     "slurmio",
-    "brainio>=0.0.17",
+    "brainio>=0.0.19",
     "fancylog",
     "micrometa",
     "imlib>=0.0.25",
     "dask>=2.15.0",
     "napari>=0.3.0",
     "scikit-image",
-    "neuro>=0.0.12",
+    "neuro>=0.0.13",
 ]
 
 
