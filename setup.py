@@ -21,7 +21,7 @@ requirements = [
     "micrometa",
     "imlib>=0.0.25",
     "dask>=2.15.0",
-    "napari>=0.3.0",
+    "napari[pyqt5]>=0.3.0",
     "scikit-image==0.16.2",
     "neuro>=0.0.13",
 ]
@@ -29,7 +29,7 @@ requirements = [
 
 setup(
     name="amap",
-    version="0.1.25",
+    version="0.1.26",
     description="Automated mouse atlas propagation",
     long_description=long_description,
     long_description_content_type="text/markdown",
