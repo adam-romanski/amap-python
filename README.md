@@ -102,6 +102,10 @@ If you find amap useful, and use it in your research, please cite the [original 
 
 > Adam L. Tyson, Charly V. Rousseau, Christian J. Niedworok and Troy W. Margrie (2019). amap: automatic atlas propagation. [doi:10.5281/zenodo.3582162](https://zenodo.org/record/3582162)
 
+**If you use this, or any other tools in the cellfinder suite, please
+ [let us know](mailto:adam.tyson@ucl.ac.uk?subject=cellfinder-paper), and 
+ we'd be happy to promote your paper/talk etc.**
+ 
 
 ## Visualisation
 amap can use the 
