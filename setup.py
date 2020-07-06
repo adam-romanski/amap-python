@@ -7,10 +7,10 @@ with open(path.join(this_directory, "README.md"), encoding="utf-8") as f:
 
 requirements = [
     "nibabel",
-    "numpy",
+    "numpy>=1.15.4,<1.19.0",
     "configparser",
-    "pandas<=0.25.3,>=0.25.1",
-    "scikit-image",
+    "pandas>=0.25.1,<=0.25.3",
+    "scikit-image>=0.14.0,<0.17.0",
     "tqdm",
     "natsort",
     "multiprocessing-logging",
@@ -22,7 +22,6 @@ requirements = [
     "imlib>=0.0.25",
     "dask>=2.15.0",
     "napari[pyqt5]>=0.3.0",
-    "scikit-image==0.16.2",
     "neuro>=0.0.13",
 ]
 
@@ -35,17 +34,7 @@ setup(
     long_description_content_type="text/markdown",
     install_requires=requirements,
     extras_require={
-        "dev": [
-            "sphinx",
-            "recommonmark",
-            "sphinx_rtd_theme",
-            "pydoc-markdown",
-            "black",
-            "pytest-cov",
-            "pytest",
-            "gitpython",
-            "coverage",
-        ]
+        "dev": ["black", "pytest-cov", "pytest", "gitpython", "coverage",]
     },
     python_requires=">=3.6, <3.8",
     packages=find_namespace_packages(exclude=("docs", "tests*")),
