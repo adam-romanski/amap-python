@@ -7,7 +7,7 @@ with open(path.join(this_directory, "README.md"), encoding="utf-8") as f:
 
 requirements = [
     "nibabel",
-    "numpy>=1.15.4,<1.19.0",
+    "numpy>=1.15.4,<1.20.0",
     "configparser",
     "pandas>=0.25.1,<=0.25.3",
     "scikit-image>=0.14.0,<0.17.0",
