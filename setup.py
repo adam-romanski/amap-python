@@ -19,7 +19,7 @@ requirements = [
     "brainio>=0.0.19",
     "fancylog",
     "micrometa",
-    "imlib>=0.0.25",
+    "imlib>=0.0.26",
     "dask>=2.15.0",
     "napari[pyqt5]>=0.3.0",
     "neuro>=0.0.13",
